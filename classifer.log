@@ -1,0 +1,659 @@
+DEBUG:dataset.persistence.database:Loading table: rssFeeds on <Database(sqlite:///database.db)>
+DEBUG:dataset.persistence.database:Loading table: articles on <Database(sqlite:///database.db)>
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.nytimes.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /politics/first-draft/2016/01/13/verbatim-what-hillary-clinton-powerball-winner-would-do/?partner=rss&emc=rss HTTP/1.1" 303 None
+INFO:requests.packages.urllib3.connectionpool:Resetting dropped connection: www.nytimes.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /glogin?URI=http%3A%2F%2Fwww.nytimes.com%2Fpolitics%2Ffirst-draft%2F2016%2F01%2F13%2Fverbatim-what-hillary-clinton-powerball-winner-would-do%2F%3Fpartner%3Drss%26emc%3Drss%26_r%3D0 HTTP/1.1" 302 0
+DEBUG:requests.packages.urllib3.connectionpool:"GET /politics/first-draft/2016/01/13/verbatim-what-hillary-clinton-powerball-winner-would-do/?partner=rss&emc=rss&_r=0 HTTP/1.1" 200 None
+ERROR:root:Unconsumed column names: auhtors
+ERROR:root:Could not parse: First Draft: Verbatim: What Hillary Clinton, Powerball Winner, Would Do
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.nytimes.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /politics/first-draft/2016/01/13/new-poll-shows-ted-cruz-and-donald-trump-deadlocked-in-iowa/?partner=rss&emc=rss HTTP/1.1" 303 None
+INFO:requests.packages.urllib3.connectionpool:Resetting dropped connection: www.nytimes.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /glogin?URI=http%3A%2F%2Fwww.nytimes.com%2Fpolitics%2Ffirst-draft%2F2016%2F01%2F13%2Fnew-poll-shows-ted-cruz-and-donald-trump-deadlocked-in-iowa%2F%3Fpartner%3Drss%26emc%3Drss%26_r%3D0 HTTP/1.1" 302 0
+DEBUG:requests.packages.urllib3.connectionpool:"GET /politics/first-draft/2016/01/13/new-poll-shows-ted-cruz-and-donald-trump-deadlocked-in-iowa/?partner=rss&emc=rss&_r=0 HTTP/1.1" 200 None
+ERROR:root:Unconsumed column names: auhtors
+ERROR:root:Could not parse: First Draft: New Poll Shows Ted Cruz and Donald Trump Deadlocked in Iowa
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.nytimes.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /2016/01/14/world/middleeast/us-obama-refugees.html?partner=rss&emc=rss HTTP/1.1" 303 None
+INFO:requests.packages.urllib3.connectionpool:Resetting dropped connection: www.nytimes.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /glogin?URI=http%3A%2F%2Fwww.nytimes.com%2F2016%2F01%2F14%2Fworld%2Fmiddleeast%2Fus-obama-refugees.html%3Fpartner%3Drss%26emc%3Drss%26_r%3D0 HTTP/1.1" 302 0
+DEBUG:requests.packages.urllib3.connectionpool:"GET /2016/01/14/world/middleeast/us-obama-refugees.html?partner=rss&emc=rss&_r=0 HTTP/1.1" 200 None
+ERROR:root:Unconsumed column names: auhtors
+ERROR:root:Could not parse: United Nations Memo: U.S. Record on Refugees Reflects Domestic and Global Challenges
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.nytimes.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /2016/01/13/us/politics/hillary-clintons-lead-over-bernie-sanders-slipping-in-new-poll.html?partner=rss&emc=rss HTTP/1.1" 303 None
+INFO:requests.packages.urllib3.connectionpool:Resetting dropped connection: www.nytimes.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /glogin?URI=http%3A%2F%2Fwww.nytimes.com%2F2016%2F01%2F13%2Fus%2Fpolitics%2Fhillary-clintons-lead-over-bernie-sanders-slipping-in-new-poll.html%3Fpartner%3Drss%26emc%3Drss%26_r%3D0 HTTP/1.1" 302 0
+DEBUG:requests.packages.urllib3.connectionpool:"GET /2016/01/13/us/politics/hillary-clintons-lead-over-bernie-sanders-slipping-in-new-poll.html?partner=rss&emc=rss&_r=0 HTTP/1.1" 200 None
+ERROR:root:Unconsumed column names: auhtors
+ERROR:root:Could not parse: Hillary Clinton s Lead Over Bernie Sanders Slipping in New Poll
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.nytimes.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /2016/01/13/us/politics/imagining-trump-going-the-distance.html?partner=rss&emc=rss HTTP/1.1" 303 None
+INFO:requests.packages.urllib3.connectionpool:Resetting dropped connection: www.nytimes.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /glogin?URI=http%3A%2F%2Fwww.nytimes.com%2F2016%2F01%2F13%2Fus%2Fpolitics%2Fimagining-trump-going-the-distance.html%3Fpartner%3Drss%26emc%3Drss%26_r%3D0 HTTP/1.1" 302 0
+DEBUG:requests.packages.urllib3.connectionpool:"GET /2016/01/13/us/politics/imagining-trump-going-the-distance.html?partner=rss&emc=rss&_r=0 HTTP/1.1" 200 None
+ERROR:root:Unconsumed column names: auhtors
+ERROR:root:Could not parse: Letter From America: Imagining Trump Going the Distance
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.nytimes.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /politics/first-draft/2016/01/13/as-bernie-sanders-gains-momentum-hillary-clinton-shows-signs-of-noticing/?partner=rss&emc=rss HTTP/1.1" 303 None
+INFO:requests.packages.urllib3.connectionpool:Resetting dropped connection: www.nytimes.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /glogin?URI=http%3A%2F%2Fwww.nytimes.com%2Fpolitics%2Ffirst-draft%2F2016%2F01%2F13%2Fas-bernie-sanders-gains-momentum-hillary-clinton-shows-signs-of-noticing%2F%3Fpartner%3Drss%26emc%3Drss%26_r%3D0 HTTP/1.1" 302 0
+DEBUG:requests.packages.urllib3.connectionpool:"GET /politics/first-draft/2016/01/13/as-bernie-sanders-gains-momentum-hillary-clinton-shows-signs-of-noticing/?partner=rss&emc=rss&_r=0 HTTP/1.1" 200 None
+ERROR:root:Unconsumed column names: auhtors
+ERROR:root:Could not parse: First Draft: As Bernie Sanders Gains Momentum, Hillary Clinton Shows Signs of Noticing
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.nytimes.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /politics/first-draft/2016/01/12/koch-industries-disputes-books-account-of-founders-role-in-building-a-nazi-refinery/?partner=rss&emc=rss HTTP/1.1" 303 None
+INFO:requests.packages.urllib3.connectionpool:Resetting dropped connection: www.nytimes.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /glogin?URI=http%3A%2F%2Fwww.nytimes.com%2Fpolitics%2Ffirst-draft%2F2016%2F01%2F12%2Fkoch-industries-disputes-books-account-of-founders-role-in-building-a-nazi-refinery%2F%3Fpartner%3Drss%26emc%3Drss%26_r%3D0 HTTP/1.1" 302 0
+DEBUG:requests.packages.urllib3.connectionpool:"GET /politics/first-draft/2016/01/12/koch-industries-disputes-books-account-of-founders-role-in-building-a-nazi-refinery/?partner=rss&emc=rss&_r=0 HTTP/1.1" 200 None
+ERROR:root:Unconsumed column names: auhtors
+ERROR:root:Could not parse: First Draft: Koch Executive Disputes Book s Account of Founder s Role in Nazi Refinery
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.nytimes.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /politics/first-draft/2016/01/13/group-of-g-o-p-senators-quietly-explore-rule-changes/?partner=rss&emc=rss HTTP/1.1" 303 None
+INFO:requests.packages.urllib3.connectionpool:Resetting dropped connection: www.nytimes.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /glogin?URI=http%3A%2F%2Fwww.nytimes.com%2Fpolitics%2Ffirst-draft%2F2016%2F01%2F13%2Fgroup-of-g-o-p-senators-quietly-explore-rule-changes%2F%3Fpartner%3Drss%26emc%3Drss%26_r%3D0 HTTP/1.1" 302 0
+DEBUG:requests.packages.urllib3.connectionpool:"GET /politics/first-draft/2016/01/13/group-of-g-o-p-senators-quietly-explore-rule-changes/?partner=rss&emc=rss&_r=0 HTTP/1.1" 200 None
+ERROR:root:Unconsumed column names: auhtors
+ERROR:root:Could not parse: First Draft: Group of G.O.P. Senators Quietly Explore Rule Changes
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.nytimes.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /politics/first-draft/2016/01/13/2-democrats-seek-to-take-gunmakers-liability-shield/?partner=rss&emc=rss HTTP/1.1" 303 None
+INFO:requests.packages.urllib3.connectionpool:Resetting dropped connection: www.nytimes.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /glogin?URI=http%3A%2F%2Fwww.nytimes.com%2Fpolitics%2Ffirst-draft%2F2016%2F01%2F13%2F2-democrats-seek-to-take-gunmakers-liability-shield%2F%3Fpartner%3Drss%26emc%3Drss%26_r%3D0 HTTP/1.1" 302 0
+DEBUG:requests.packages.urllib3.connectionpool:"GET /politics/first-draft/2016/01/13/2-democrats-seek-to-take-gunmakers-liability-shield/?partner=rss&emc=rss&_r=0 HTTP/1.1" 200 None
+ERROR:root:Unconsumed column names: auhtors
+ERROR:root:Could not parse: First Draft: 2 Democrats Seek to Take Gunmakers  Liability Shield
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.nytimes.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /politics/first-draft/2016/01/13/for-better-politics-obama-says-we-have-to-change-the-system/?partner=rss&emc=rss HTTP/1.1" 303 None
+INFO:requests.packages.urllib3.connectionpool:Resetting dropped connection: www.nytimes.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /glogin?URI=http%3A%2F%2Fwww.nytimes.com%2Fpolitics%2Ffirst-draft%2F2016%2F01%2F13%2Ffor-better-politics-obama-says-we-have-to-change-the-system%2F%3Fpartner%3Drss%26emc%3Drss%26_r%3D0 HTTP/1.1" 302 0
+DEBUG:requests.packages.urllib3.connectionpool:"GET /politics/first-draft/2016/01/13/for-better-politics-obama-says-we-have-to-change-the-system/?partner=rss&emc=rss&_r=0 HTTP/1.1" 200 None
+ERROR:root:Unconsumed column names: auhtors
+ERROR:root:Could not parse: First Draft: For Better Politics, Obama Says,  We Have to Change the System 
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.nytimes.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /2016/01/14/us/politics/obama-nebraska-louisiana.html?partner=rss&emc=rss HTTP/1.1" 303 None
+INFO:requests.packages.urllib3.connectionpool:Resetting dropped connection: www.nytimes.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /glogin?URI=http%3A%2F%2Fwww.nytimes.com%2F2016%2F01%2F14%2Fus%2Fpolitics%2Fobama-nebraska-louisiana.html%3Fpartner%3Drss%26emc%3Drss%26_r%3D0 HTTP/1.1" 302 0
+DEBUG:requests.packages.urllib3.connectionpool:"GET /2016/01/14/us/politics/obama-nebraska-louisiana.html?partner=rss&emc=rss&_r=0 HTTP/1.1" 200 None
+ERROR:root:Unconsumed column names: auhtors
+ERROR:root:Could not parse: Obama, in Nebraska and Louisiana, Aims to Kick Off Discussions on Future
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.nytimes.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /2016/01/14/us/politics/ted-cruz-starts-to-crack-gop-establishments-wall-of-opposition.html?partner=rss&emc=rss HTTP/1.1" 303 None
+INFO:requests.packages.urllib3.connectionpool:Resetting dropped connection: www.nytimes.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /glogin?URI=http%3A%2F%2Fwww.nytimes.com%2F2016%2F01%2F14%2Fus%2Fpolitics%2Fted-cruz-starts-to-crack-gop-establishments-wall-of-opposition.html%3Fpartner%3Drss%26emc%3Drss%26_r%3D0 HTTP/1.1" 302 0
+DEBUG:requests.packages.urllib3.connectionpool:"GET /2016/01/14/us/politics/ted-cruz-starts-to-crack-gop-establishments-wall-of-opposition.html?partner=rss&emc=rss&_r=0 HTTP/1.1" 200 None
+ERROR:root:Unconsumed column names: auhtors
+ERROR:root:Could not parse: Ted Cruz Starts to Crack G.O.P. Establishment s Wall of Opposition
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.nytimes.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /2016/01/13/us/politics/sotu-bernie-sanders-marco-rubio.html?partner=rss&emc=rss HTTP/1.1" 303 None
+INFO:requests.packages.urllib3.connectionpool:Resetting dropped connection: www.nytimes.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /glogin?URI=http%3A%2F%2Fwww.nytimes.com%2F2016%2F01%2F13%2Fus%2Fpolitics%2Fsotu-bernie-sanders-marco-rubio.html%3Fpartner%3Drss%26emc%3Drss%26_r%3D0 HTTP/1.1" 302 0
+DEBUG:requests.packages.urllib3.connectionpool:"GET /2016/01/13/us/politics/sotu-bernie-sanders-marco-rubio.html?partner=rss&emc=rss&_r=0 HTTP/1.1" 200 None
+ERROR:root:Unconsumed column names: auhtors
+ERROR:root:Could not parse: Obama Speech Points to Successes, as Would-Be Successors Look On
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.nytimes.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /politics/first-draft/2016/01/12/ted-cruz-suggests-donald-trump-is-taking-cues-from-democrats/?partner=rss&emc=rss HTTP/1.1" 303 None
+INFO:requests.packages.urllib3.connectionpool:Resetting dropped connection: www.nytimes.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /glogin?URI=http%3A%2F%2Fwww.nytimes.com%2Fpolitics%2Ffirst-draft%2F2016%2F01%2F12%2Fted-cruz-suggests-donald-trump-is-taking-cues-from-democrats%2F%3Fpartner%3Drss%26emc%3Drss%26_r%3D0 HTTP/1.1" 302 0
+DEBUG:requests.packages.urllib3.connectionpool:"GET /politics/first-draft/2016/01/12/ted-cruz-suggests-donald-trump-is-taking-cues-from-democrats/?partner=rss&emc=rss&_r=0 HTTP/1.1" 200 None
+ERROR:root:Unconsumed column names: auhtors
+ERROR:root:Could not parse: First Draft: Ted Cruz Suggests Donald Trump Is Taking Cues From Democrats
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.nytimes.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /2016/01/13/us/politics/final-state-of-the-union-address.html?partner=rss&emc=rss HTTP/1.1" 303 None
+INFO:requests.packages.urllib3.connectionpool:Resetting dropped connection: www.nytimes.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /glogin?URI=http%3A%2F%2Fwww.nytimes.com%2F2016%2F01%2F13%2Fus%2Fpolitics%2Ffinal-state-of-the-union-address.html%3Fpartner%3Drss%26emc%3Drss%26_r%3D0 HTTP/1.1" 302 0
+DEBUG:requests.packages.urllib3.connectionpool:"GET /2016/01/13/us/politics/final-state-of-the-union-address.html?partner=rss&emc=rss&_r=0 HTTP/1.1" 200 None
+ERROR:root:Unconsumed column names: auhtors
+ERROR:root:Could not parse: News Analysis: State of the Union Speech Is One Half of Nation s Political Split Screen
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.nytimes.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /2016/01/13/us/politics/obama-state-of-the-union.html?partner=rss&emc=rss HTTP/1.1" 303 None
+INFO:requests.packages.urllib3.connectionpool:Resetting dropped connection: www.nytimes.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /glogin?URI=http%3A%2F%2Fwww.nytimes.com%2F2016%2F01%2F13%2Fus%2Fpolitics%2Fobama-state-of-the-union.html%3Fpartner%3Drss%26emc%3Drss%26_r%3D0 HTTP/1.1" 302 0
+DEBUG:requests.packages.urllib3.connectionpool:"GET /2016/01/13/us/politics/obama-state-of-the-union.html?partner=rss&emc=rss&_r=0 HTTP/1.1" 200 None
+ERROR:root:Unconsumed column names: auhtors
+ERROR:root:Could not parse: In State of the Union Address, Obama Confronts Americans  Fears
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.nytimes.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /politics/first-draft/2016/01/12/hillary-clinton-releases-ad-supporting-obamas-gun-control-efforts/?partner=rss&emc=rss HTTP/1.1" 303 None
+INFO:requests.packages.urllib3.connectionpool:Resetting dropped connection: www.nytimes.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /glogin?URI=http%3A%2F%2Fwww.nytimes.com%2Fpolitics%2Ffirst-draft%2F2016%2F01%2F12%2Fhillary-clinton-releases-ad-supporting-obamas-gun-control-efforts%2F%3Fpartner%3Drss%26emc%3Drss%26_r%3D0 HTTP/1.1" 302 0
+DEBUG:requests.packages.urllib3.connectionpool:"GET /politics/first-draft/2016/01/12/hillary-clinton-releases-ad-supporting-obamas-gun-control-efforts/?partner=rss&emc=rss&_r=0 HTTP/1.1" 200 None
+ERROR:root:''
+ERROR:root:Could not parse: First Draft: Hillary Clinton Releases Ad Supporting Obama s Gun Control Efforts
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.nytimes.com
+DEBUG:newspaper.network:HTTPConnectionPool(host='www.nytimes.com', port=80): Max retries exceeded with url: /politics/first-draft/2016/01/12/hillary-clinton-bernie-sanders-magic-wand/?partner=rss&emc=rss (Caused by NewConnectionError('<requests.packages.urllib3.connection.HTTPConnection object at 0x103daab90>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known',)) on http://www.nytimes.com/politics/first-draft/2016/01/12/hillary-clinton-bernie-sanders-magic-wand/?partner=rss&emc=rss
+ERROR:root:Unconsumed column names: auhtors
+ERROR:root:Could not parse: First Draft: Hillary Clinton, a Surging Rival and the Return of the  Magic Wand 
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.nytimes.com
+DEBUG:newspaper.network:HTTPConnectionPool(host='www.nytimes.com', port=80): Max retries exceeded with url: /2016/01/13/us/politics/obama-2016-sotu-transcript.html?partner=rss&emc=rss (Caused by NewConnectionError('<requests.packages.urllib3.connection.HTTPConnection object at 0x103eac5d0>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known',)) on http://www.nytimes.com/2016/01/13/us/politics/obama-2016-sotu-transcript.html?partner=rss&emc=rss
+ERROR:root:Unconsumed column names: auhtors
+ERROR:root:Could not parse: Transcript of Obama s 2016 State of the Union Address
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.nytimes.com
+DEBUG:newspaper.network:HTTPConnectionPool(host='www.nytimes.com', port=80): Max retries exceeded with url: /politics/first-draft/2016/01/12/chelsea-clinton-again-her-mothers-surrogate-takes-up-the-fight-against-bernie-sanders/?partner=rss&emc=rss (Caused by NewConnectionError('<requests.packages.urllib3.connection.HTTPConnection object at 0x1050356d0>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known',)) on http://www.nytimes.com/politics/first-draft/2016/01/12/chelsea-clinton-again-her-mothers-surrogate-takes-up-the-fight-against-bernie-sanders/?partner=rss&emc=rss
+ERROR:root:Unconsumed column names: auhtors
+ERROR:root:Could not parse: First Draft: Chelsea Clinton, Again Her Mother s Surrogate, Takes Up the Fight Against Bernie Sanders
+DEBUG:dataset.persistence.database:Loading table: rssFeeds on <Database(sqlite:///database.db)>
+DEBUG:dataset.persistence.database:Loading table: articles on <Database(sqlite:///database.db)>
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.vox.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /science-and-health/2015/12/10/9881764/save-the-salamanders-bsal-fungus HTTP/1.1" 200 30770
+ERROR:root:Unconsumed column names: auhtors
+ERROR:root:Could not parse: The US just banned salamander imports, hoping to stave off disaster
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.vox.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /2016/1/13/10760656/state-of-union-2016-spanish HTTP/1.1" 200 29850
+ERROR:root:Unconsumed column names: auhtors
+ERROR:root:Could not parse: The GOP response to the State of the Union sounded pretty different in Spanish
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.vox.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /2016/1/13/10760268/obama-gay-lgbtq-workplace HTTP/1.1" 200 26747
+ERROR:root:Unconsumed column names: auhtors
+ERROR:root:Could not parse: Obama's quiet push to ban LGBTQ discrimination in the workplace
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.vox.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /2016/1/12/10758674/state-of-union-obama-trump HTTP/1.1" 200 24655
+ERROR:root:Unconsumed column names: auhtors
+ERROR:root:Could not parse: The most powerful moment from Obama s last State of the Union
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.vox.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /2014/11/10/7184987/john-oliver-state-lottery-gambling HTTP/1.1" 200 22998
+ERROR:root:Unconsumed column names: auhtors
+ERROR:root:Could not parse: John Oliver's hilarious, horrifying look at state-backed lotteries
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.vox.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /2016/1/13/10759874/republicans-democrats-different HTTP/1.1" 200 26388
+ERROR:root:Unconsumed column names: auhtors
+ERROR:root:Could not parse: This is what makes Republicans and Democrats so different
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.vox.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /2015/12/28/10416590/millionaire-overrated HTTP/1.1" 200 23893
+ERROR:root:Unconsumed column names: auhtors
+ERROR:root:Could not parse: I became a millionaire overnight   and quickly realized that extreme wealth is overrated
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.vox.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /2015/3/22/8267297/powerball-states-map HTTP/1.1" 200 25899
+ERROR:root:Unconsumed column names: auhtors
+ERROR:root:Could not parse: Map: Here's where Powerball is most popular
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.vox.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /2016/1/13/10758008/hillary-clinton-estate-tax HTTP/1.1" 200 25913
+ERROR:root:Unconsumed column names: auhtors
+ERROR:root:Could not parse: Hillary Clinton's estate tax plan leaves rates way lower than they were in Bill's day
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.vox.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /2016/1/12/10755690/netflix-making-a-murderer-avery-guilty HTTP/1.1" 200 34408
+ERROR:root:Unconsumed column names: auhtors
+ERROR:root:Could not parse: Netflix's Making a Murderer exposes flaws that go far beyond Steven Avery's trial
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.vox.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /2016/1/13/10759228/republican-debate-time-schedule HTTP/1.1" 200 25650
+ERROR:root:Unconsumed column names: auhtors
+ERROR:root:Could not parse: Republican debate 2016: start time, schedule, and what to expect
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.vox.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /2016/1/13/10757942/bernie-sanders-polls HTTP/1.1" 200 28339
+ERROR:root:Unconsumed column names: auhtors
+ERROR:root:Could not parse: Bernie Sanders is on the rise in Iowa   and it looks like he could win there
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.vox.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /2016/1/13/10759108/nikki-haley-trump-state-of-the-union HTTP/1.1" 200 26031
+ERROR:root:Unconsumed column names: auhtors
+ERROR:root:Could not parse: Nikki Haley's State of the Union response bashed Trump   and racial justice activists
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.shannonmoroney.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /Shannon_Moroney_reads_Through_the_Glass_-_Chapter_One.mp3 HTTP/1.1" 200 16403226
+DEBUG:dataset.persistence.database:Loading table: rssFeeds on <Database(sqlite:///database.db)>
+DEBUG:dataset.persistence.database:Loading table: articles on <Database(sqlite:///database.db)>
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.nytimes.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /politics/first-draft/2016/01/13/verbatim-what-hillary-clinton-powerball-winner-would-do/?partner=rss&emc=rss HTTP/1.1" 303 None
+INFO:requests.packages.urllib3.connectionpool:Resetting dropped connection: www.nytimes.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /glogin?URI=http%3A%2F%2Fwww.nytimes.com%2Fpolitics%2Ffirst-draft%2F2016%2F01%2F13%2Fverbatim-what-hillary-clinton-powerball-winner-would-do%2F%3Fpartner%3Drss%26emc%3Drss%26_r%3D0 HTTP/1.1" 302 0
+DEBUG:requests.packages.urllib3.connectionpool:"GET /politics/first-draft/2016/01/13/verbatim-what-hillary-clinton-powerball-winner-would-do/?partner=rss&emc=rss&_r=0 HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.nytimes.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /politics/first-draft/2016/01/13/new-poll-shows-ted-cruz-and-donald-trump-deadlocked-in-iowa/?partner=rss&emc=rss HTTP/1.1" 303 None
+INFO:requests.packages.urllib3.connectionpool:Resetting dropped connection: www.nytimes.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /glogin?URI=http%3A%2F%2Fwww.nytimes.com%2Fpolitics%2Ffirst-draft%2F2016%2F01%2F13%2Fnew-poll-shows-ted-cruz-and-donald-trump-deadlocked-in-iowa%2F%3Fpartner%3Drss%26emc%3Drss%26_r%3D0 HTTP/1.1" 302 0
+DEBUG:requests.packages.urllib3.connectionpool:"GET /politics/first-draft/2016/01/13/new-poll-shows-ted-cruz-and-donald-trump-deadlocked-in-iowa/?partner=rss&emc=rss&_r=0 HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.nytimes.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /2016/01/14/world/middleeast/us-obama-refugees.html?partner=rss&emc=rss HTTP/1.1" 303 None
+INFO:requests.packages.urllib3.connectionpool:Resetting dropped connection: www.nytimes.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /glogin?URI=http%3A%2F%2Fwww.nytimes.com%2F2016%2F01%2F14%2Fworld%2Fmiddleeast%2Fus-obama-refugees.html%3Fpartner%3Drss%26emc%3Drss%26_r%3D0 HTTP/1.1" 302 0
+DEBUG:requests.packages.urllib3.connectionpool:"GET /2016/01/14/world/middleeast/us-obama-refugees.html?partner=rss&emc=rss&_r=0 HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.nytimes.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /2016/01/13/us/politics/hillary-clintons-lead-over-bernie-sanders-slipping-in-new-poll.html?partner=rss&emc=rss HTTP/1.1" 303 None
+INFO:requests.packages.urllib3.connectionpool:Resetting dropped connection: www.nytimes.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /glogin?URI=http%3A%2F%2Fwww.nytimes.com%2F2016%2F01%2F13%2Fus%2Fpolitics%2Fhillary-clintons-lead-over-bernie-sanders-slipping-in-new-poll.html%3Fpartner%3Drss%26emc%3Drss%26_r%3D0 HTTP/1.1" 302 0
+DEBUG:requests.packages.urllib3.connectionpool:"GET /2016/01/13/us/politics/hillary-clintons-lead-over-bernie-sanders-slipping-in-new-poll.html?partner=rss&emc=rss&_r=0 HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.nytimes.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /2016/01/13/us/politics/imagining-trump-going-the-distance.html?partner=rss&emc=rss HTTP/1.1" 303 None
+INFO:requests.packages.urllib3.connectionpool:Resetting dropped connection: www.nytimes.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /glogin?URI=http%3A%2F%2Fwww.nytimes.com%2F2016%2F01%2F13%2Fus%2Fpolitics%2Fimagining-trump-going-the-distance.html%3Fpartner%3Drss%26emc%3Drss%26_r%3D0 HTTP/1.1" 302 0
+DEBUG:requests.packages.urllib3.connectionpool:"GET /2016/01/13/us/politics/imagining-trump-going-the-distance.html?partner=rss&emc=rss&_r=0 HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.nytimes.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /politics/first-draft/2016/01/13/as-bernie-sanders-gains-momentum-hillary-clinton-shows-signs-of-noticing/?partner=rss&emc=rss HTTP/1.1" 303 None
+INFO:requests.packages.urllib3.connectionpool:Resetting dropped connection: www.nytimes.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /glogin?URI=http%3A%2F%2Fwww.nytimes.com%2Fpolitics%2Ffirst-draft%2F2016%2F01%2F13%2Fas-bernie-sanders-gains-momentum-hillary-clinton-shows-signs-of-noticing%2F%3Fpartner%3Drss%26emc%3Drss%26_r%3D0 HTTP/1.1" 302 0
+DEBUG:requests.packages.urllib3.connectionpool:"GET /politics/first-draft/2016/01/13/as-bernie-sanders-gains-momentum-hillary-clinton-shows-signs-of-noticing/?partner=rss&emc=rss&_r=0 HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.nytimes.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /politics/first-draft/2016/01/12/koch-industries-disputes-books-account-of-founders-role-in-building-a-nazi-refinery/?partner=rss&emc=rss HTTP/1.1" 303 None
+INFO:requests.packages.urllib3.connectionpool:Resetting dropped connection: www.nytimes.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /glogin?URI=http%3A%2F%2Fwww.nytimes.com%2Fpolitics%2Ffirst-draft%2F2016%2F01%2F12%2Fkoch-industries-disputes-books-account-of-founders-role-in-building-a-nazi-refinery%2F%3Fpartner%3Drss%26emc%3Drss%26_r%3D0 HTTP/1.1" 302 0
+DEBUG:requests.packages.urllib3.connectionpool:"GET /politics/first-draft/2016/01/12/koch-industries-disputes-books-account-of-founders-role-in-building-a-nazi-refinery/?partner=rss&emc=rss&_r=0 HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.nytimes.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /politics/first-draft/2016/01/13/group-of-g-o-p-senators-quietly-explore-rule-changes/?partner=rss&emc=rss HTTP/1.1" 303 None
+INFO:requests.packages.urllib3.connectionpool:Resetting dropped connection: www.nytimes.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /glogin?URI=http%3A%2F%2Fwww.nytimes.com%2Fpolitics%2Ffirst-draft%2F2016%2F01%2F13%2Fgroup-of-g-o-p-senators-quietly-explore-rule-changes%2F%3Fpartner%3Drss%26emc%3Drss%26_r%3D0 HTTP/1.1" 302 0
+DEBUG:requests.packages.urllib3.connectionpool:"GET /politics/first-draft/2016/01/13/group-of-g-o-p-senators-quietly-explore-rule-changes/?partner=rss&emc=rss&_r=0 HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.nytimes.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /politics/first-draft/2016/01/13/2-democrats-seek-to-take-gunmakers-liability-shield/?partner=rss&emc=rss HTTP/1.1" 303 None
+INFO:requests.packages.urllib3.connectionpool:Resetting dropped connection: www.nytimes.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /glogin?URI=http%3A%2F%2Fwww.nytimes.com%2Fpolitics%2Ffirst-draft%2F2016%2F01%2F13%2F2-democrats-seek-to-take-gunmakers-liability-shield%2F%3Fpartner%3Drss%26emc%3Drss%26_r%3D0 HTTP/1.1" 302 0
+DEBUG:requests.packages.urllib3.connectionpool:"GET /politics/first-draft/2016/01/13/2-democrats-seek-to-take-gunmakers-liability-shield/?partner=rss&emc=rss&_r=0 HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.nytimes.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /politics/first-draft/2016/01/13/for-better-politics-obama-says-we-have-to-change-the-system/?partner=rss&emc=rss HTTP/1.1" 303 None
+INFO:requests.packages.urllib3.connectionpool:Resetting dropped connection: www.nytimes.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /glogin?URI=http%3A%2F%2Fwww.nytimes.com%2Fpolitics%2Ffirst-draft%2F2016%2F01%2F13%2Ffor-better-politics-obama-says-we-have-to-change-the-system%2F%3Fpartner%3Drss%26emc%3Drss%26_r%3D0 HTTP/1.1" 302 0
+DEBUG:requests.packages.urllib3.connectionpool:"GET /politics/first-draft/2016/01/13/for-better-politics-obama-says-we-have-to-change-the-system/?partner=rss&emc=rss&_r=0 HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.nytimes.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /2016/01/14/us/politics/obama-nebraska-louisiana.html?partner=rss&emc=rss HTTP/1.1" 303 None
+INFO:requests.packages.urllib3.connectionpool:Resetting dropped connection: www.nytimes.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /glogin?URI=http%3A%2F%2Fwww.nytimes.com%2F2016%2F01%2F14%2Fus%2Fpolitics%2Fobama-nebraska-louisiana.html%3Fpartner%3Drss%26emc%3Drss%26_r%3D0 HTTP/1.1" 302 0
+DEBUG:requests.packages.urllib3.connectionpool:"GET /2016/01/14/us/politics/obama-nebraska-louisiana.html?partner=rss&emc=rss&_r=0 HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.nytimes.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /2016/01/14/us/politics/ted-cruz-starts-to-crack-gop-establishments-wall-of-opposition.html?partner=rss&emc=rss HTTP/1.1" 303 None
+INFO:requests.packages.urllib3.connectionpool:Resetting dropped connection: www.nytimes.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /glogin?URI=http%3A%2F%2Fwww.nytimes.com%2F2016%2F01%2F14%2Fus%2Fpolitics%2Fted-cruz-starts-to-crack-gop-establishments-wall-of-opposition.html%3Fpartner%3Drss%26emc%3Drss%26_r%3D0 HTTP/1.1" 302 0
+DEBUG:requests.packages.urllib3.connectionpool:"GET /2016/01/14/us/politics/ted-cruz-starts-to-crack-gop-establishments-wall-of-opposition.html?partner=rss&emc=rss&_r=0 HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.nytimes.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /2016/01/13/us/politics/sotu-bernie-sanders-marco-rubio.html?partner=rss&emc=rss HTTP/1.1" 303 None
+INFO:requests.packages.urllib3.connectionpool:Resetting dropped connection: www.nytimes.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /glogin?URI=http%3A%2F%2Fwww.nytimes.com%2F2016%2F01%2F13%2Fus%2Fpolitics%2Fsotu-bernie-sanders-marco-rubio.html%3Fpartner%3Drss%26emc%3Drss%26_r%3D0 HTTP/1.1" 302 0
+DEBUG:requests.packages.urllib3.connectionpool:"GET /2016/01/13/us/politics/sotu-bernie-sanders-marco-rubio.html?partner=rss&emc=rss&_r=0 HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.nytimes.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /politics/first-draft/2016/01/12/ted-cruz-suggests-donald-trump-is-taking-cues-from-democrats/?partner=rss&emc=rss HTTP/1.1" 303 None
+INFO:requests.packages.urllib3.connectionpool:Resetting dropped connection: www.nytimes.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /glogin?URI=http%3A%2F%2Fwww.nytimes.com%2Fpolitics%2Ffirst-draft%2F2016%2F01%2F12%2Fted-cruz-suggests-donald-trump-is-taking-cues-from-democrats%2F%3Fpartner%3Drss%26emc%3Drss%26_r%3D0 HTTP/1.1" 302 0
+DEBUG:requests.packages.urllib3.connectionpool:"GET /politics/first-draft/2016/01/12/ted-cruz-suggests-donald-trump-is-taking-cues-from-democrats/?partner=rss&emc=rss&_r=0 HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.nytimes.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /2016/01/13/us/politics/final-state-of-the-union-address.html?partner=rss&emc=rss HTTP/1.1" 303 None
+INFO:requests.packages.urllib3.connectionpool:Resetting dropped connection: www.nytimes.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /glogin?URI=http%3A%2F%2Fwww.nytimes.com%2F2016%2F01%2F13%2Fus%2Fpolitics%2Ffinal-state-of-the-union-address.html%3Fpartner%3Drss%26emc%3Drss%26_r%3D0 HTTP/1.1" 302 0
+DEBUG:requests.packages.urllib3.connectionpool:"GET /2016/01/13/us/politics/final-state-of-the-union-address.html?partner=rss&emc=rss&_r=0 HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.nytimes.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /2016/01/13/us/politics/obama-state-of-the-union.html?partner=rss&emc=rss HTTP/1.1" 303 None
+INFO:requests.packages.urllib3.connectionpool:Resetting dropped connection: www.nytimes.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /glogin?URI=http%3A%2F%2Fwww.nytimes.com%2F2016%2F01%2F13%2Fus%2Fpolitics%2Fobama-state-of-the-union.html%3Fpartner%3Drss%26emc%3Drss%26_r%3D0 HTTP/1.1" 302 0
+DEBUG:requests.packages.urllib3.connectionpool:"GET /2016/01/13/us/politics/obama-state-of-the-union.html?partner=rss&emc=rss&_r=0 HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.nytimes.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /politics/first-draft/2016/01/12/hillary-clinton-releases-ad-supporting-obamas-gun-control-efforts/?partner=rss&emc=rss HTTP/1.1" 303 None
+INFO:requests.packages.urllib3.connectionpool:Resetting dropped connection: www.nytimes.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /glogin?URI=http%3A%2F%2Fwww.nytimes.com%2Fpolitics%2Ffirst-draft%2F2016%2F01%2F12%2Fhillary-clinton-releases-ad-supporting-obamas-gun-control-efforts%2F%3Fpartner%3Drss%26emc%3Drss%26_r%3D0 HTTP/1.1" 302 0
+DEBUG:requests.packages.urllib3.connectionpool:"GET /politics/first-draft/2016/01/12/hillary-clinton-releases-ad-supporting-obamas-gun-control-efforts/?partner=rss&emc=rss&_r=0 HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.nytimes.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /politics/first-draft/2016/01/12/hillary-clinton-bernie-sanders-magic-wand/?partner=rss&emc=rss HTTP/1.1" 303 None
+INFO:requests.packages.urllib3.connectionpool:Resetting dropped connection: www.nytimes.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /glogin?URI=http%3A%2F%2Fwww.nytimes.com%2Fpolitics%2Ffirst-draft%2F2016%2F01%2F12%2Fhillary-clinton-bernie-sanders-magic-wand%2F%3Fpartner%3Drss%26emc%3Drss%26_r%3D0 HTTP/1.1" 302 0
+DEBUG:requests.packages.urllib3.connectionpool:"GET /politics/first-draft/2016/01/12/hillary-clinton-bernie-sanders-magic-wand/?partner=rss&emc=rss&_r=0 HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.nytimes.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /2016/01/13/us/politics/obama-2016-sotu-transcript.html?partner=rss&emc=rss HTTP/1.1" 303 None
+INFO:requests.packages.urllib3.connectionpool:Resetting dropped connection: www.nytimes.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /glogin?URI=http%3A%2F%2Fwww.nytimes.com%2F2016%2F01%2F13%2Fus%2Fpolitics%2Fobama-2016-sotu-transcript.html%3Fpartner%3Drss%26emc%3Drss%26_r%3D0 HTTP/1.1" 302 0
+DEBUG:requests.packages.urllib3.connectionpool:"GET /2016/01/13/us/politics/obama-2016-sotu-transcript.html?partner=rss&emc=rss&_r=0 HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.nytimes.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /politics/first-draft/2016/01/12/chelsea-clinton-again-her-mothers-surrogate-takes-up-the-fight-against-bernie-sanders/?partner=rss&emc=rss HTTP/1.1" 303 None
+INFO:requests.packages.urllib3.connectionpool:Resetting dropped connection: www.nytimes.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /glogin?URI=http%3A%2F%2Fwww.nytimes.com%2Fpolitics%2Ffirst-draft%2F2016%2F01%2F12%2Fchelsea-clinton-again-her-mothers-surrogate-takes-up-the-fight-against-bernie-sanders%2F%3Fpartner%3Drss%26emc%3Drss%26_r%3D0 HTTP/1.1" 302 0
+DEBUG:requests.packages.urllib3.connectionpool:"GET /politics/first-draft/2016/01/12/chelsea-clinton-again-her-mothers-surrogate-takes-up-the-fight-against-bernie-sanders/?partner=rss&emc=rss&_r=0 HTTP/1.1" 200 None
+DEBUG:dataset.persistence.database:Loading table: rssFeeds on <Database(sqlite:///database.db)>
+DEBUG:dataset.persistence.database:Loading table: articles on <Database(sqlite:///database.db)>
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.vox.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /science-and-health/2015/12/10/9881764/save-the-salamanders-bsal-fungus HTTP/1.1" 200 30770
+DEBUG:dataset.persistence.table:Creating column: text (<class 'sqlalchemy.sql.sqltypes.UnicodeText'>) on 'articles'
+INFO:alembic.runtime.migration:Context impl SQLiteImpl.
+INFO:alembic.runtime.migration:Will assume non-transactional DDL.
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.vox.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /2016/1/13/10760656/state-of-union-2016-spanish HTTP/1.1" 200 29850
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.vox.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /2016/1/13/10760268/obama-gay-lgbtq-workplace HTTP/1.1" 200 27049
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.vox.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /2016/1/12/10758674/state-of-union-obama-trump HTTP/1.1" 200 24655
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.vox.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /2014/11/10/7184987/john-oliver-state-lottery-gambling HTTP/1.1" 200 22998
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.vox.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /2016/1/13/10759874/republicans-democrats-different HTTP/1.1" 200 26388
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.vox.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /2015/12/28/10416590/millionaire-overrated HTTP/1.1" 200 23888
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.vox.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /2015/3/22/8267297/powerball-states-map HTTP/1.1" 200 25863
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.vox.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /2016/1/13/10758008/hillary-clinton-estate-tax HTTP/1.1" 200 26006
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.vox.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /2016/1/12/10755690/netflix-making-a-murderer-avery-guilty HTTP/1.1" 200 34408
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.vox.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /2016/1/13/10759228/republican-debate-time-schedule HTTP/1.1" 200 25650
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.vox.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /2016/1/13/10757942/bernie-sanders-polls HTTP/1.1" 200 28342
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.vox.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /2016/1/13/10759108/nikki-haley-trump-state-of-the-union HTTP/1.1" 200 26031
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.shannonmoroney.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /Shannon_Moroney_reads_Through_the_Glass_-_Chapter_One.mp3 HTTP/1.1" 200 16403226
+DEBUG:dataset.persistence.database:Loading table: rssFeeds on <Database(sqlite:///database.db)>
+DEBUG:dataset.persistence.database:Loading table: articles on <Database(sqlite:///database.db)>
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.nytimes.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /politics/first-draft/2016/01/13/verbatim-what-hillary-clinton-powerball-winner-would-do/?partner=rss&emc=rss HTTP/1.1" 303 None
+INFO:requests.packages.urllib3.connectionpool:Resetting dropped connection: www.nytimes.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /glogin?URI=http%3A%2F%2Fwww.nytimes.com%2Fpolitics%2Ffirst-draft%2F2016%2F01%2F13%2Fverbatim-what-hillary-clinton-powerball-winner-would-do%2F%3Fpartner%3Drss%26emc%3Drss%26_r%3D0 HTTP/1.1" 302 0
+DEBUG:requests.packages.urllib3.connectionpool:"GET /politics/first-draft/2016/01/13/verbatim-what-hillary-clinton-powerball-winner-would-do/?partner=rss&emc=rss&_r=0 HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.nytimes.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /politics/first-draft/2016/01/13/new-poll-shows-ted-cruz-and-donald-trump-deadlocked-in-iowa/?partner=rss&emc=rss HTTP/1.1" 303 None
+INFO:requests.packages.urllib3.connectionpool:Resetting dropped connection: www.nytimes.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /glogin?URI=http%3A%2F%2Fwww.nytimes.com%2Fpolitics%2Ffirst-draft%2F2016%2F01%2F13%2Fnew-poll-shows-ted-cruz-and-donald-trump-deadlocked-in-iowa%2F%3Fpartner%3Drss%26emc%3Drss%26_r%3D0 HTTP/1.1" 302 0
+DEBUG:requests.packages.urllib3.connectionpool:"GET /politics/first-draft/2016/01/13/new-poll-shows-ted-cruz-and-donald-trump-deadlocked-in-iowa/?partner=rss&emc=rss&_r=0 HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.nytimes.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /2016/01/14/world/middleeast/us-obama-refugees.html?partner=rss&emc=rss HTTP/1.1" 303 None
+INFO:requests.packages.urllib3.connectionpool:Resetting dropped connection: www.nytimes.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /glogin?URI=http%3A%2F%2Fwww.nytimes.com%2F2016%2F01%2F14%2Fworld%2Fmiddleeast%2Fus-obama-refugees.html%3Fpartner%3Drss%26emc%3Drss%26_r%3D0 HTTP/1.1" 302 0
+DEBUG:requests.packages.urllib3.connectionpool:"GET /2016/01/14/world/middleeast/us-obama-refugees.html?partner=rss&emc=rss&_r=0 HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.nytimes.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /2016/01/13/us/politics/hillary-clintons-lead-over-bernie-sanders-slipping-in-new-poll.html?partner=rss&emc=rss HTTP/1.1" 303 None
+INFO:requests.packages.urllib3.connectionpool:Resetting dropped connection: www.nytimes.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /glogin?URI=http%3A%2F%2Fwww.nytimes.com%2F2016%2F01%2F13%2Fus%2Fpolitics%2Fhillary-clintons-lead-over-bernie-sanders-slipping-in-new-poll.html%3Fpartner%3Drss%26emc%3Drss%26_r%3D0 HTTP/1.1" 302 0
+DEBUG:requests.packages.urllib3.connectionpool:"GET /2016/01/13/us/politics/hillary-clintons-lead-over-bernie-sanders-slipping-in-new-poll.html?partner=rss&emc=rss&_r=0 HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.nytimes.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /2016/01/13/us/politics/imagining-trump-going-the-distance.html?partner=rss&emc=rss HTTP/1.1" 303 None
+INFO:requests.packages.urllib3.connectionpool:Resetting dropped connection: www.nytimes.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /glogin?URI=http%3A%2F%2Fwww.nytimes.com%2F2016%2F01%2F13%2Fus%2Fpolitics%2Fimagining-trump-going-the-distance.html%3Fpartner%3Drss%26emc%3Drss%26_r%3D0 HTTP/1.1" 302 0
+DEBUG:requests.packages.urllib3.connectionpool:"GET /2016/01/13/us/politics/imagining-trump-going-the-distance.html?partner=rss&emc=rss&_r=0 HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.nytimes.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /politics/first-draft/2016/01/13/as-bernie-sanders-gains-momentum-hillary-clinton-shows-signs-of-noticing/?partner=rss&emc=rss HTTP/1.1" 303 None
+INFO:requests.packages.urllib3.connectionpool:Resetting dropped connection: www.nytimes.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /glogin?URI=http%3A%2F%2Fwww.nytimes.com%2Fpolitics%2Ffirst-draft%2F2016%2F01%2F13%2Fas-bernie-sanders-gains-momentum-hillary-clinton-shows-signs-of-noticing%2F%3Fpartner%3Drss%26emc%3Drss%26_r%3D0 HTTP/1.1" 302 0
+DEBUG:requests.packages.urllib3.connectionpool:"GET /politics/first-draft/2016/01/13/as-bernie-sanders-gains-momentum-hillary-clinton-shows-signs-of-noticing/?partner=rss&emc=rss&_r=0 HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.nytimes.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /politics/first-draft/2016/01/12/koch-industries-disputes-books-account-of-founders-role-in-building-a-nazi-refinery/?partner=rss&emc=rss HTTP/1.1" 303 None
+INFO:requests.packages.urllib3.connectionpool:Resetting dropped connection: www.nytimes.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /glogin?URI=http%3A%2F%2Fwww.nytimes.com%2Fpolitics%2Ffirst-draft%2F2016%2F01%2F12%2Fkoch-industries-disputes-books-account-of-founders-role-in-building-a-nazi-refinery%2F%3Fpartner%3Drss%26emc%3Drss%26_r%3D0 HTTP/1.1" 302 0
+DEBUG:requests.packages.urllib3.connectionpool:"GET /politics/first-draft/2016/01/12/koch-industries-disputes-books-account-of-founders-role-in-building-a-nazi-refinery/?partner=rss&emc=rss&_r=0 HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.nytimes.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /politics/first-draft/2016/01/13/group-of-g-o-p-senators-quietly-explore-rule-changes/?partner=rss&emc=rss HTTP/1.1" 303 None
+INFO:requests.packages.urllib3.connectionpool:Resetting dropped connection: www.nytimes.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /glogin?URI=http%3A%2F%2Fwww.nytimes.com%2Fpolitics%2Ffirst-draft%2F2016%2F01%2F13%2Fgroup-of-g-o-p-senators-quietly-explore-rule-changes%2F%3Fpartner%3Drss%26emc%3Drss%26_r%3D0 HTTP/1.1" 302 0
+DEBUG:requests.packages.urllib3.connectionpool:"GET /politics/first-draft/2016/01/13/group-of-g-o-p-senators-quietly-explore-rule-changes/?partner=rss&emc=rss&_r=0 HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.nytimes.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /politics/first-draft/2016/01/13/2-democrats-seek-to-take-gunmakers-liability-shield/?partner=rss&emc=rss HTTP/1.1" 303 None
+INFO:requests.packages.urllib3.connectionpool:Resetting dropped connection: www.nytimes.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /glogin?URI=http%3A%2F%2Fwww.nytimes.com%2Fpolitics%2Ffirst-draft%2F2016%2F01%2F13%2F2-democrats-seek-to-take-gunmakers-liability-shield%2F%3Fpartner%3Drss%26emc%3Drss%26_r%3D0 HTTP/1.1" 302 0
+DEBUG:requests.packages.urllib3.connectionpool:"GET /politics/first-draft/2016/01/13/2-democrats-seek-to-take-gunmakers-liability-shield/?partner=rss&emc=rss&_r=0 HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.nytimes.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /politics/first-draft/2016/01/13/for-better-politics-obama-says-we-have-to-change-the-system/?partner=rss&emc=rss HTTP/1.1" 303 None
+INFO:requests.packages.urllib3.connectionpool:Resetting dropped connection: www.nytimes.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /glogin?URI=http%3A%2F%2Fwww.nytimes.com%2Fpolitics%2Ffirst-draft%2F2016%2F01%2F13%2Ffor-better-politics-obama-says-we-have-to-change-the-system%2F%3Fpartner%3Drss%26emc%3Drss%26_r%3D0 HTTP/1.1" 302 0
+DEBUG:requests.packages.urllib3.connectionpool:"GET /politics/first-draft/2016/01/13/for-better-politics-obama-says-we-have-to-change-the-system/?partner=rss&emc=rss&_r=0 HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.nytimes.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /2016/01/14/us/politics/obama-nebraska-louisiana.html?partner=rss&emc=rss HTTP/1.1" 303 None
+INFO:requests.packages.urllib3.connectionpool:Resetting dropped connection: www.nytimes.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /glogin?URI=http%3A%2F%2Fwww.nytimes.com%2F2016%2F01%2F14%2Fus%2Fpolitics%2Fobama-nebraska-louisiana.html%3Fpartner%3Drss%26emc%3Drss%26_r%3D0 HTTP/1.1" 302 0
+DEBUG:requests.packages.urllib3.connectionpool:"GET /2016/01/14/us/politics/obama-nebraska-louisiana.html?partner=rss&emc=rss&_r=0 HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.nytimes.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /2016/01/14/us/politics/ted-cruz-starts-to-crack-gop-establishments-wall-of-opposition.html?partner=rss&emc=rss HTTP/1.1" 303 None
+INFO:requests.packages.urllib3.connectionpool:Resetting dropped connection: www.nytimes.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /glogin?URI=http%3A%2F%2Fwww.nytimes.com%2F2016%2F01%2F14%2Fus%2Fpolitics%2Fted-cruz-starts-to-crack-gop-establishments-wall-of-opposition.html%3Fpartner%3Drss%26emc%3Drss%26_r%3D0 HTTP/1.1" 302 0
+DEBUG:requests.packages.urllib3.connectionpool:"GET /2016/01/14/us/politics/ted-cruz-starts-to-crack-gop-establishments-wall-of-opposition.html?partner=rss&emc=rss&_r=0 HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.nytimes.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /2016/01/13/us/politics/sotu-bernie-sanders-marco-rubio.html?partner=rss&emc=rss HTTP/1.1" 303 None
+INFO:requests.packages.urllib3.connectionpool:Resetting dropped connection: www.nytimes.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /glogin?URI=http%3A%2F%2Fwww.nytimes.com%2F2016%2F01%2F13%2Fus%2Fpolitics%2Fsotu-bernie-sanders-marco-rubio.html%3Fpartner%3Drss%26emc%3Drss%26_r%3D0 HTTP/1.1" 302 0
+DEBUG:requests.packages.urllib3.connectionpool:"GET /2016/01/13/us/politics/sotu-bernie-sanders-marco-rubio.html?partner=rss&emc=rss&_r=0 HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.nytimes.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /politics/first-draft/2016/01/12/ted-cruz-suggests-donald-trump-is-taking-cues-from-democrats/?partner=rss&emc=rss HTTP/1.1" 303 None
+INFO:requests.packages.urllib3.connectionpool:Resetting dropped connection: www.nytimes.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /glogin?URI=http%3A%2F%2Fwww.nytimes.com%2Fpolitics%2Ffirst-draft%2F2016%2F01%2F12%2Fted-cruz-suggests-donald-trump-is-taking-cues-from-democrats%2F%3Fpartner%3Drss%26emc%3Drss%26_r%3D0 HTTP/1.1" 302 0
+DEBUG:requests.packages.urllib3.connectionpool:"GET /politics/first-draft/2016/01/12/ted-cruz-suggests-donald-trump-is-taking-cues-from-democrats/?partner=rss&emc=rss&_r=0 HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.nytimes.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /2016/01/13/us/politics/final-state-of-the-union-address.html?partner=rss&emc=rss HTTP/1.1" 303 None
+INFO:requests.packages.urllib3.connectionpool:Resetting dropped connection: www.nytimes.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /glogin?URI=http%3A%2F%2Fwww.nytimes.com%2F2016%2F01%2F13%2Fus%2Fpolitics%2Ffinal-state-of-the-union-address.html%3Fpartner%3Drss%26emc%3Drss%26_r%3D0 HTTP/1.1" 302 0
+DEBUG:requests.packages.urllib3.connectionpool:"GET /2016/01/13/us/politics/final-state-of-the-union-address.html?partner=rss&emc=rss&_r=0 HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.nytimes.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /2016/01/13/us/politics/obama-state-of-the-union.html?partner=rss&emc=rss HTTP/1.1" 303 None
+INFO:requests.packages.urllib3.connectionpool:Resetting dropped connection: www.nytimes.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /glogin?URI=http%3A%2F%2Fwww.nytimes.com%2F2016%2F01%2F13%2Fus%2Fpolitics%2Fobama-state-of-the-union.html%3Fpartner%3Drss%26emc%3Drss%26_r%3D0 HTTP/1.1" 302 0
+DEBUG:requests.packages.urllib3.connectionpool:"GET /2016/01/13/us/politics/obama-state-of-the-union.html?partner=rss&emc=rss&_r=0 HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.nytimes.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /politics/first-draft/2016/01/12/hillary-clinton-releases-ad-supporting-obamas-gun-control-efforts/?partner=rss&emc=rss HTTP/1.1" 303 None
+INFO:requests.packages.urllib3.connectionpool:Resetting dropped connection: www.nytimes.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /glogin?URI=http%3A%2F%2Fwww.nytimes.com%2Fpolitics%2Ffirst-draft%2F2016%2F01%2F12%2Fhillary-clinton-releases-ad-supporting-obamas-gun-control-efforts%2F%3Fpartner%3Drss%26emc%3Drss%26_r%3D0 HTTP/1.1" 302 0
+DEBUG:requests.packages.urllib3.connectionpool:"GET /politics/first-draft/2016/01/12/hillary-clinton-releases-ad-supporting-obamas-gun-control-efforts/?partner=rss&emc=rss&_r=0 HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.nytimes.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /politics/first-draft/2016/01/12/hillary-clinton-bernie-sanders-magic-wand/?partner=rss&emc=rss HTTP/1.1" 303 None
+INFO:requests.packages.urllib3.connectionpool:Resetting dropped connection: www.nytimes.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /glogin?URI=http%3A%2F%2Fwww.nytimes.com%2Fpolitics%2Ffirst-draft%2F2016%2F01%2F12%2Fhillary-clinton-bernie-sanders-magic-wand%2F%3Fpartner%3Drss%26emc%3Drss%26_r%3D0 HTTP/1.1" 302 0
+DEBUG:requests.packages.urllib3.connectionpool:"GET /politics/first-draft/2016/01/12/hillary-clinton-bernie-sanders-magic-wand/?partner=rss&emc=rss&_r=0 HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.nytimes.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /2016/01/13/us/politics/obama-2016-sotu-transcript.html?partner=rss&emc=rss HTTP/1.1" 303 None
+INFO:requests.packages.urllib3.connectionpool:Resetting dropped connection: www.nytimes.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /glogin?URI=http%3A%2F%2Fwww.nytimes.com%2F2016%2F01%2F13%2Fus%2Fpolitics%2Fobama-2016-sotu-transcript.html%3Fpartner%3Drss%26emc%3Drss%26_r%3D0 HTTP/1.1" 302 0
+DEBUG:requests.packages.urllib3.connectionpool:"GET /2016/01/13/us/politics/obama-2016-sotu-transcript.html?partner=rss&emc=rss&_r=0 HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.nytimes.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /politics/first-draft/2016/01/12/chelsea-clinton-again-her-mothers-surrogate-takes-up-the-fight-against-bernie-sanders/?partner=rss&emc=rss HTTP/1.1" 303 None
+INFO:requests.packages.urllib3.connectionpool:Resetting dropped connection: www.nytimes.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /glogin?URI=http%3A%2F%2Fwww.nytimes.com%2Fpolitics%2Ffirst-draft%2F2016%2F01%2F12%2Fchelsea-clinton-again-her-mothers-surrogate-takes-up-the-fight-against-bernie-sanders%2F%3Fpartner%3Drss%26emc%3Drss%26_r%3D0 HTTP/1.1" 302 0
+DEBUG:requests.packages.urllib3.connectionpool:"GET /politics/first-draft/2016/01/12/chelsea-clinton-again-her-mothers-surrogate-takes-up-the-fight-against-bernie-sanders/?partner=rss&emc=rss&_r=0 HTTP/1.1" 200 None
+DEBUG:dataset.persistence.database:Loading table: rssFeeds on <Database(sqlite:///database.db)>
+DEBUG:dataset.persistence.database:Loading table: articles on <Database(sqlite:///database.db)>
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.vox.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /2016/1/12/10758674/state-of-union-obama-trump HTTP/1.1" 200 24655
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.vox.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /2015/12/28/10416590/millionaire-overrated HTTP/1.1" 200 23888
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.vox.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /2016/1/13/10757942/bernie-sanders-polls HTTP/1.1" 200 28342
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.vox.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /2016/1/13/10759108/nikki-haley-trump-state-of-the-union HTTP/1.1" 200 25568
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.shannonmoroney.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /Shannon_Moroney_reads_Through_the_Glass_-_Chapter_One.mp3 HTTP/1.1" 200 16403226
+DEBUG:dataset.persistence.database:Loading table: rssFeeds on <Database(sqlite:///database.db)>
+DEBUG:dataset.persistence.database:Loading table: articles on <Database(sqlite:///database.db)>
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.nytimes.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /politics/first-draft/2016/01/13/verbatim-what-hillary-clinton-powerball-winner-would-do/?partner=rss&emc=rss HTTP/1.1" 303 None
+INFO:requests.packages.urllib3.connectionpool:Resetting dropped connection: www.nytimes.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /glogin?URI=http%3A%2F%2Fwww.nytimes.com%2Fpolitics%2Ffirst-draft%2F2016%2F01%2F13%2Fverbatim-what-hillary-clinton-powerball-winner-would-do%2F%3Fpartner%3Drss%26emc%3Drss%26_r%3D0 HTTP/1.1" 302 0
+DEBUG:requests.packages.urllib3.connectionpool:"GET /politics/first-draft/2016/01/13/verbatim-what-hillary-clinton-powerball-winner-would-do/?partner=rss&emc=rss&_r=0 HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.nytimes.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /politics/first-draft/2016/01/13/new-poll-shows-ted-cruz-and-donald-trump-deadlocked-in-iowa/?partner=rss&emc=rss HTTP/1.1" 303 None
+INFO:requests.packages.urllib3.connectionpool:Resetting dropped connection: www.nytimes.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /glogin?URI=http%3A%2F%2Fwww.nytimes.com%2Fpolitics%2Ffirst-draft%2F2016%2F01%2F13%2Fnew-poll-shows-ted-cruz-and-donald-trump-deadlocked-in-iowa%2F%3Fpartner%3Drss%26emc%3Drss%26_r%3D0 HTTP/1.1" 302 0
+DEBUG:requests.packages.urllib3.connectionpool:"GET /politics/first-draft/2016/01/13/new-poll-shows-ted-cruz-and-donald-trump-deadlocked-in-iowa/?partner=rss&emc=rss&_r=0 HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.nytimes.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /2016/01/14/world/middleeast/us-obama-refugees.html?partner=rss&emc=rss HTTP/1.1" 303 None
+INFO:requests.packages.urllib3.connectionpool:Resetting dropped connection: www.nytimes.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /glogin?URI=http%3A%2F%2Fwww.nytimes.com%2F2016%2F01%2F14%2Fworld%2Fmiddleeast%2Fus-obama-refugees.html%3Fpartner%3Drss%26emc%3Drss%26_r%3D0 HTTP/1.1" 302 0
+DEBUG:requests.packages.urllib3.connectionpool:"GET /2016/01/14/world/middleeast/us-obama-refugees.html?partner=rss&emc=rss&_r=0 HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.nytimes.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /2016/01/13/us/politics/hillary-clintons-lead-over-bernie-sanders-slipping-in-new-poll.html?partner=rss&emc=rss HTTP/1.1" 303 None
+INFO:requests.packages.urllib3.connectionpool:Resetting dropped connection: www.nytimes.com
+DEBUG:dataset.persistence.database:Loading table: rssFeeds on <Database(sqlite:///database.db)>
+ERROR:root:global name 'signal' is not defined
+ERROR:root:Could not parse: Unraveling Obama's final State of the Union address
+ERROR:root:global name 'signal' is not defined
+ERROR:root:Could not parse: The US just banned salamander imports, hoping to stave off disaster
+ERROR:root:global name 'signal' is not defined
+ERROR:root:Could not parse: The GOP response to the State of the Union sounded pretty different in Spanish
+ERROR:root:global name 'signal' is not defined
+ERROR:root:Could not parse: Obama's quiet push to ban LGBTQ discrimination in the workplace
+ERROR:root:global name 'signal' is not defined
+ERROR:root:Could not parse: The most powerful moment from Obama s last State of the Union
+ERROR:root:global name 'signal' is not defined
+ERROR:root:Could not parse: John Oliver's hilarious, horrifying look at state-backed lotteries
+ERROR:root:global name 'signal' is not defined
+ERROR:root:Could not parse: This is what makes Republicans and Democrats so different
+ERROR:root:global name 'signal' is not defined
+ERROR:root:Could not parse: I became a millionaire overnight   and quickly realized that extreme wealth is overrated
+ERROR:root:global name 'signal' is not defined
+ERROR:root:Could not parse: Map: Here's where Powerball is most popular
+ERROR:root:global name 'signal' is not defined
+ERROR:root:Could not parse: Hillary Clinton's estate tax plan leaves rates way lower than they were in Bill's day
+ERROR:root:global name 'signal' is not defined
+ERROR:root:Could not parse: Netflix's Making a Murderer exposes flaws that go far beyond Steven Avery's trial
+ERROR:root:global name 'signal' is not defined
+ERROR:root:Could not parse: Republican debate 2016: start time, schedule, and what to expect
+ERROR:root:global name 'signal' is not defined
+ERROR:root:Could not parse: Bernie Sanders is on the rise in Iowa   and it looks like he could win there
+ERROR:root:global name 'signal' is not defined
+ERROR:root:Could not parse: Nikki Haley's State of the Union response bashed Trump   and racial justice activists
+ERROR:root:global name 'signal' is not defined
+ERROR:root:Could not parse: My husband raped two women   and I had to answer for his crimes
+ERROR:root:global name 'signal' is not defined
+ERROR:root:Could not parse: Obama's 2016 State of the Union, in 4 minutes
+ERROR:root:global name 'signal' is not defined
+ERROR:root:Could not parse: Powerball: Winning numbers could earn a $1.35 billion jackpot
+ERROR:root:global name 'signal' is not defined
+ERROR:root:Could not parse: A guide to the policies Obama mentioned in the 2016 State of the Union
+ERROR:root:global name 'signal' is not defined
+ERROR:root:Could not parse: Obama's cringe-worthy line claiming Middle East conflicts "date back millennia"
+ERROR:root:global name 'signal' is not defined
+ERROR:root:Could not parse: State of the Union 2016: Obama just declared victory in the culture war
+ERROR:root:global name 'signal' is not defined
+ERROR:root:Could not parse: 4 winners and 2 losers in Barack Obama's last State of the Union address
+ERROR:root:global name 'signal' is not defined
+ERROR:root:Could not parse: The State of the Union, edited down to 375 words
+ERROR:root:global name 'signal' is not defined
+ERROR:root:Could not parse: Obama's radical honesty about ISIS: they don't "threaten our national existence"
+ERROR:root:global name 'signal' is not defined
+ERROR:root:Could not parse: Obama calls for an end to gerrymandering in the State of the Union
+ERROR:root:global name 'signal' is not defined
+ERROR:root:Could not parse: State of the Union: Full text of South Carolina Gov. Nikki Haley's Republican response
+ERROR:root:global name 'signal' is not defined
+ERROR:root:Could not parse: Obama's big regret: He lost on politics
+ERROR:root:global name 'signal' is not defined
+ERROR:root:Could not parse: State of the Union 2016: Obama disses Donald Trump
+ERROR:root:global name 'signal' is not defined
+ERROR:root:Could not parse: State of the Union 2016: Obama s joke on himself turns into a joke on 2016 candidates
+ERROR:root:global name 'signal' is not defined
+ERROR:root:Could not parse: President Obama says he and Paul Ryan can agree on fighting poverty. That's half right.
+ERROR:root:global name 'signal' is not defined
+ERROR:root:Could not parse: America should follow Silicon Valley's lead on paid parental leave
+DEBUG:dataset.persistence.database:Loading table: rssFeeds on <Database(sqlite:///database.db)>
+DEBUG:dataset.persistence.database:Loading table: articles on <Database(sqlite:///database.db)>
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.nytimes.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /politics/first-draft/2016/01/13/verbatim-what-hillary-clinton-powerball-winner-would-do/?partner=rss&emc=rss HTTP/1.1" 303 None
+INFO:requests.packages.urllib3.connectionpool:Resetting dropped connection: www.nytimes.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /glogin?URI=http%3A%2F%2Fwww.nytimes.com%2Fpolitics%2Ffirst-draft%2F2016%2F01%2F13%2Fverbatim-what-hillary-clinton-powerball-winner-would-do%2F%3Fpartner%3Drss%26emc%3Drss%26_r%3D0 HTTP/1.1" 302 0
+DEBUG:requests.packages.urllib3.connectionpool:"GET /politics/first-draft/2016/01/13/verbatim-what-hillary-clinton-powerball-winner-would-do/?partner=rss&emc=rss&_r=0 HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.nytimes.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /politics/first-draft/2016/01/13/new-poll-shows-ted-cruz-and-donald-trump-deadlocked-in-iowa/?partner=rss&emc=rss HTTP/1.1" 303 None
+INFO:requests.packages.urllib3.connectionpool:Resetting dropped connection: www.nytimes.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /glogin?URI=http%3A%2F%2Fwww.nytimes.com%2Fpolitics%2Ffirst-draft%2F2016%2F01%2F13%2Fnew-poll-shows-ted-cruz-and-donald-trump-deadlocked-in-iowa%2F%3Fpartner%3Drss%26emc%3Drss%26_r%3D0 HTTP/1.1" 302 0
+DEBUG:requests.packages.urllib3.connectionpool:"GET /politics/first-draft/2016/01/13/new-poll-shows-ted-cruz-and-donald-trump-deadlocked-in-iowa/?partner=rss&emc=rss&_r=0 HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.nytimes.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /2016/01/14/world/middleeast/us-obama-refugees.html?partner=rss&emc=rss HTTP/1.1" 303 None
+INFO:requests.packages.urllib3.connectionpool:Resetting dropped connection: www.nytimes.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /glogin?URI=http%3A%2F%2Fwww.nytimes.com%2F2016%2F01%2F14%2Fworld%2Fmiddleeast%2Fus-obama-refugees.html%3Fpartner%3Drss%26emc%3Drss%26_r%3D0 HTTP/1.1" 302 0
+DEBUG:requests.packages.urllib3.connectionpool:"GET /2016/01/14/world/middleeast/us-obama-refugees.html?partner=rss&emc=rss&_r=0 HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.nytimes.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /2016/01/13/us/politics/hillary-clintons-lead-over-bernie-sanders-slipping-in-new-poll.html?partner=rss&emc=rss HTTP/1.1" 303 None
+INFO:requests.packages.urllib3.connectionpool:Resetting dropped connection: www.nytimes.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /glogin?URI=http%3A%2F%2Fwww.nytimes.com%2F2016%2F01%2F13%2Fus%2Fpolitics%2Fhillary-clintons-lead-over-bernie-sanders-slipping-in-new-poll.html%3Fpartner%3Drss%26emc%3Drss%26_r%3D0 HTTP/1.1" 302 0
+DEBUG:requests.packages.urllib3.connectionpool:"GET /2016/01/13/us/politics/hillary-clintons-lead-over-bernie-sanders-slipping-in-new-poll.html?partner=rss&emc=rss&_r=0 HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.nytimes.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /2016/01/13/us/politics/imagining-trump-going-the-distance.html?partner=rss&emc=rss HTTP/1.1" 303 None
+INFO:requests.packages.urllib3.connectionpool:Resetting dropped connection: www.nytimes.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /glogin?URI=http%3A%2F%2Fwww.nytimes.com%2F2016%2F01%2F13%2Fus%2Fpolitics%2Fimagining-trump-going-the-distance.html%3Fpartner%3Drss%26emc%3Drss%26_r%3D0 HTTP/1.1" 302 0
+DEBUG:requests.packages.urllib3.connectionpool:"GET /2016/01/13/us/politics/imagining-trump-going-the-distance.html?partner=rss&emc=rss&_r=0 HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.nytimes.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /politics/first-draft/2016/01/13/as-bernie-sanders-gains-momentum-hillary-clinton-shows-signs-of-noticing/?partner=rss&emc=rss HTTP/1.1" 303 None
+INFO:requests.packages.urllib3.connectionpool:Resetting dropped connection: www.nytimes.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /glogin?URI=http%3A%2F%2Fwww.nytimes.com%2Fpolitics%2Ffirst-draft%2F2016%2F01%2F13%2Fas-bernie-sanders-gains-momentum-hillary-clinton-shows-signs-of-noticing%2F%3Fpartner%3Drss%26emc%3Drss%26_r%3D0 HTTP/1.1" 302 0
+DEBUG:requests.packages.urllib3.connectionpool:"GET /politics/first-draft/2016/01/13/as-bernie-sanders-gains-momentum-hillary-clinton-shows-signs-of-noticing/?partner=rss&emc=rss&_r=0 HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.nytimes.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /politics/first-draft/2016/01/12/koch-industries-disputes-books-account-of-founders-role-in-building-a-nazi-refinery/?partner=rss&emc=rss HTTP/1.1" 303 None
+INFO:requests.packages.urllib3.connectionpool:Resetting dropped connection: www.nytimes.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /glogin?URI=http%3A%2F%2Fwww.nytimes.com%2Fpolitics%2Ffirst-draft%2F2016%2F01%2F12%2Fkoch-industries-disputes-books-account-of-founders-role-in-building-a-nazi-refinery%2F%3Fpartner%3Drss%26emc%3Drss%26_r%3D0 HTTP/1.1" 302 0
+DEBUG:requests.packages.urllib3.connectionpool:"GET /politics/first-draft/2016/01/12/koch-industries-disputes-books-account-of-founders-role-in-building-a-nazi-refinery/?partner=rss&emc=rss&_r=0 HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.nytimes.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /politics/first-draft/2016/01/13/group-of-g-o-p-senators-quietly-explore-rule-changes/?partner=rss&emc=rss HTTP/1.1" 303 None
+INFO:requests.packages.urllib3.connectionpool:Resetting dropped connection: www.nytimes.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /glogin?URI=http%3A%2F%2Fwww.nytimes.com%2Fpolitics%2Ffirst-draft%2F2016%2F01%2F13%2Fgroup-of-g-o-p-senators-quietly-explore-rule-changes%2F%3Fpartner%3Drss%26emc%3Drss%26_r%3D0 HTTP/1.1" 302 0
+DEBUG:requests.packages.urllib3.connectionpool:"GET /politics/first-draft/2016/01/13/group-of-g-o-p-senators-quietly-explore-rule-changes/?partner=rss&emc=rss&_r=0 HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.nytimes.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /politics/first-draft/2016/01/13/2-democrats-seek-to-take-gunmakers-liability-shield/?partner=rss&emc=rss HTTP/1.1" 303 None
+INFO:requests.packages.urllib3.connectionpool:Resetting dropped connection: www.nytimes.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /glogin?URI=http%3A%2F%2Fwww.nytimes.com%2Fpolitics%2Ffirst-draft%2F2016%2F01%2F13%2F2-democrats-seek-to-take-gunmakers-liability-shield%2F%3Fpartner%3Drss%26emc%3Drss%26_r%3D0 HTTP/1.1" 302 0
+DEBUG:requests.packages.urllib3.connectionpool:"GET /politics/first-draft/2016/01/13/2-democrats-seek-to-take-gunmakers-liability-shield/?partner=rss&emc=rss&_r=0 HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.nytimes.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /politics/first-draft/2016/01/13/for-better-politics-obama-says-we-have-to-change-the-system/?partner=rss&emc=rss HTTP/1.1" 303 None
+INFO:requests.packages.urllib3.connectionpool:Resetting dropped connection: www.nytimes.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /glogin?URI=http%3A%2F%2Fwww.nytimes.com%2Fpolitics%2Ffirst-draft%2F2016%2F01%2F13%2Ffor-better-politics-obama-says-we-have-to-change-the-system%2F%3Fpartner%3Drss%26emc%3Drss%26_r%3D0 HTTP/1.1" 302 0
+DEBUG:requests.packages.urllib3.connectionpool:"GET /politics/first-draft/2016/01/13/for-better-politics-obama-says-we-have-to-change-the-system/?partner=rss&emc=rss&_r=0 HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.nytimes.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /2016/01/14/us/politics/ted-cruz-starts-to-crack-gop-establishments-wall-of-opposition.html?partner=rss&emc=rss HTTP/1.1" 303 None
+INFO:requests.packages.urllib3.connectionpool:Resetting dropped connection: www.nytimes.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /glogin?URI=http%3A%2F%2Fwww.nytimes.com%2F2016%2F01%2F14%2Fus%2Fpolitics%2Fted-cruz-starts-to-crack-gop-establishments-wall-of-opposition.html%3Fpartner%3Drss%26emc%3Drss%26_r%3D0 HTTP/1.1" 302 0
+DEBUG:requests.packages.urllib3.connectionpool:"GET /2016/01/14/us/politics/ted-cruz-starts-to-crack-gop-establishments-wall-of-opposition.html?partner=rss&emc=rss&_r=0 HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.nytimes.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /politics/first-draft/2016/01/12/ted-cruz-suggests-donald-trump-is-taking-cues-from-democrats/?partner=rss&emc=rss HTTP/1.1" 303 None
+INFO:requests.packages.urllib3.connectionpool:Resetting dropped connection: www.nytimes.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /glogin?URI=http%3A%2F%2Fwww.nytimes.com%2Fpolitics%2Ffirst-draft%2F2016%2F01%2F12%2Fted-cruz-suggests-donald-trump-is-taking-cues-from-democrats%2F%3Fpartner%3Drss%26emc%3Drss%26_r%3D0 HTTP/1.1" 302 0
+DEBUG:requests.packages.urllib3.connectionpool:"GET /politics/first-draft/2016/01/12/ted-cruz-suggests-donald-trump-is-taking-cues-from-democrats/?partner=rss&emc=rss&_r=0 HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.nytimes.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /2016/01/13/us/politics/final-state-of-the-union-address.html?partner=rss&emc=rss HTTP/1.1" 303 None
+INFO:requests.packages.urllib3.connectionpool:Resetting dropped connection: www.nytimes.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /glogin?URI=http%3A%2F%2Fwww.nytimes.com%2F2016%2F01%2F13%2Fus%2Fpolitics%2Ffinal-state-of-the-union-address.html%3Fpartner%3Drss%26emc%3Drss%26_r%3D0 HTTP/1.1" 302 0
+DEBUG:requests.packages.urllib3.connectionpool:"GET /2016/01/13/us/politics/final-state-of-the-union-address.html?partner=rss&emc=rss&_r=0 HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.nytimes.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /2016/01/13/us/politics/obama-state-of-the-union.html?partner=rss&emc=rss HTTP/1.1" 303 None
+INFO:requests.packages.urllib3.connectionpool:Resetting dropped connection: www.nytimes.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /glogin?URI=http%3A%2F%2Fwww.nytimes.com%2F2016%2F01%2F13%2Fus%2Fpolitics%2Fobama-state-of-the-union.html%3Fpartner%3Drss%26emc%3Drss%26_r%3D0 HTTP/1.1" 302 0
+DEBUG:requests.packages.urllib3.connectionpool:"GET /2016/01/13/us/politics/obama-state-of-the-union.html?partner=rss&emc=rss&_r=0 HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.nytimes.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /politics/first-draft/2016/01/12/hillary-clinton-releases-ad-supporting-obamas-gun-control-efforts/?partner=rss&emc=rss HTTP/1.1" 303 None
+INFO:requests.packages.urllib3.connectionpool:Resetting dropped connection: www.nytimes.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /glogin?URI=http%3A%2F%2Fwww.nytimes.com%2Fpolitics%2Ffirst-draft%2F2016%2F01%2F12%2Fhillary-clinton-releases-ad-supporting-obamas-gun-control-efforts%2F%3Fpartner%3Drss%26emc%3Drss%26_r%3D0 HTTP/1.1" 302 0
+DEBUG:requests.packages.urllib3.connectionpool:"GET /politics/first-draft/2016/01/12/hillary-clinton-releases-ad-supporting-obamas-gun-control-efforts/?partner=rss&emc=rss&_r=0 HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.nytimes.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /politics/first-draft/2016/01/12/hillary-clinton-bernie-sanders-magic-wand/?partner=rss&emc=rss HTTP/1.1" 303 None
+INFO:requests.packages.urllib3.connectionpool:Resetting dropped connection: www.nytimes.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /glogin?URI=http%3A%2F%2Fwww.nytimes.com%2Fpolitics%2Ffirst-draft%2F2016%2F01%2F12%2Fhillary-clinton-bernie-sanders-magic-wand%2F%3Fpartner%3Drss%26emc%3Drss%26_r%3D0 HTTP/1.1" 302 0
+DEBUG:requests.packages.urllib3.connectionpool:"GET /politics/first-draft/2016/01/12/hillary-clinton-bernie-sanders-magic-wand/?partner=rss&emc=rss&_r=0 HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.nytimes.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /2016/01/13/us/politics/obama-2016-sotu-transcript.html?partner=rss&emc=rss HTTP/1.1" 303 None
+INFO:requests.packages.urllib3.connectionpool:Resetting dropped connection: www.nytimes.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /glogin?URI=http%3A%2F%2Fwww.nytimes.com%2F2016%2F01%2F13%2Fus%2Fpolitics%2Fobama-2016-sotu-transcript.html%3Fpartner%3Drss%26emc%3Drss%26_r%3D0 HTTP/1.1" 302 0
+DEBUG:requests.packages.urllib3.connectionpool:"GET /2016/01/13/us/politics/obama-2016-sotu-transcript.html?partner=rss&emc=rss&_r=0 HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.nytimes.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /politics/first-draft/2016/01/12/chelsea-clinton-again-her-mothers-surrogate-takes-up-the-fight-against-bernie-sanders/?partner=rss&emc=rss HTTP/1.1" 303 None
+INFO:requests.packages.urllib3.connectionpool:Resetting dropped connection: www.nytimes.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /glogin?URI=http%3A%2F%2Fwww.nytimes.com%2Fpolitics%2Ffirst-draft%2F2016%2F01%2F12%2Fchelsea-clinton-again-her-mothers-surrogate-takes-up-the-fight-against-bernie-sanders%2F%3Fpartner%3Drss%26emc%3Drss%26_r%3D0 HTTP/1.1" 302 0
+DEBUG:requests.packages.urllib3.connectionpool:"GET /politics/first-draft/2016/01/12/chelsea-clinton-again-her-mothers-surrogate-takes-up-the-fight-against-bernie-sanders/?partner=rss&emc=rss&_r=0 HTTP/1.1" 200 None
+DEBUG:dataset.persistence.database:Loading table: rssFeeds on <Database(sqlite:///database.db)>
+DEBUG:dataset.persistence.database:Loading table: articles on <Database(sqlite:///database.db)>
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.vox.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /mischiefs-of-faction/2016/1/13/10761250/obama-state-of-union HTTP/1.1" 200 28217
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.vox.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /2016/1/12/10758674/state-of-union-obama-trump HTTP/1.1" 200 24757
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.vox.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /2015/12/28/10416590/millionaire-overrated HTTP/1.1" 200 23897
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.vox.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /2016/1/13/10757942/bernie-sanders-polls HTTP/1.1" 200 28342
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.vox.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /2016/1/13/10759108/nikki-haley-trump-state-of-the-union HTTP/1.1" 200 26001
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.shannonmoroney.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /Shannon_Moroney_reads_Through_the_Glass_-_Chapter_One.mp3 HTTP/1.1" 200 16403226
+DEBUG:newspaper.network:global name 'TimeoutError' is not defined on http://www.shannonmoroney.com/Shannon_Moroney_reads_Through_the_Glass_-_Chapter_One.mp3
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.vox.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /2016/1/13/10759146/obama-2016-state-of-the-union-video HTTP/1.1" 200 23538
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.vox.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /2016/1/13/10759392/powerball-winning-numbers HTTP/1.1" 200 25471
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.vox.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /2016/1/13/10759062/state-of-the-union-2016-policy HTTP/1.1" 200 36318
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.vox.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /2016/1/12/10759008/state-union-address-obama-middle-east-millennia HTTP/1.1" 200 25054
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.vox.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /2016/1/12/10758892/state-of-the-union-2015-culture-war-victory HTTP/1.1" 200 27834
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.vox.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /2016/1/12/10758880/2016-state-of-the-union-winners-losers-barack-obama HTTP/1.1" 200 29991
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.vox.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /policy-and-politics/2016/1/12/10758696/state-of-the-union-abridged-edited-shorter HTTP/1.1" 200 25898
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.vox.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /2016/1/12/10758750/state-of-the-union-2016-isis HTTP/1.1" 200 25717
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.vox.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /2016/1/12/10758738/obama-state-of-the-union-2016-gerrymandering HTTP/1.1" 200 25455
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.vox.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /2016/1/12/10758716/nikki-haley-republican-response HTTP/1.1" 200 26940
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.vox.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /2016/1/12/10758684/obama-state-union-2016 HTTP/1.1" 200 27006
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.vox.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /2016/1/12/10758466/obama-not-too-subtly-dissed-donald-trump-in-the-state-of-the-union HTTP/1.1" 200 23827
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.vox.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /2016/1/12/10758472/state-of-union-obama-joke HTTP/1.1" 200 22770
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.vox.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /2016/1/12/10758360/state-of-the-union-2015-poverty-eitc HTTP/1.1" 200 26839
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.vox.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /2015/11/24/9791594/spotify-amazon-paid-leave HTTP/1.1" 200 30632
+DEBUG:dataset.persistence.database:Loading table: rssFeeds on <Database(sqlite:///database.db)>
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.monkeylearn.com
+DEBUG:requests.packages.urllib3.connectionpool:"POST /v2/classifiers/cl_YK3gBdDK/classify/?sandbox=1 HTTP/1.1" 400 205
