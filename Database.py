@@ -86,6 +86,10 @@ def get_NonClassified_Articles(qty):
     # db.
     pass
 
+def updateArticle(toUpdate):
+    table = db['articles']
+    table.update(toUpdate, ['id'])
+
 def getRssFeed():
     table = db['rssFeeds']
     #get the feed that has not been updated the longest time ago
@@ -95,8 +99,11 @@ def getRssFeed():
     table.update(result, ['id'])
     return result
 
+def rssFeedCount():
+    table = db['rssFeeds']
+
+    return len(db['rssFeeds'])
+
 if __name__ == '__main__':
     # importData()
-    for x in get_NonClassified_Articles(2):
-        print x
     pass

@@ -657,3 +657,360 @@ DEBUG:requests.packages.urllib3.connectionpool:"GET /2015/11/24/9791594/spotify-
 DEBUG:dataset.persistence.database:Loading table: rssFeeds on <Database(sqlite:///database.db)>
 INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.monkeylearn.com
 DEBUG:requests.packages.urllib3.connectionpool:"POST /v2/classifiers/cl_YK3gBdDK/classify/?sandbox=1 HTTP/1.1" 400 205
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.monkeylearn.com
+DEBUG:requests.packages.urllib3.connectionpool:"POST /v2/classifiers/cl_YK3gBdDK/classify/?sandbox=1 HTTP/1.1" 200 104
+INFO:root:[[{u'probability': 0.576, u'label': u'Liberal'}], [{u'probability': 0.694, u'label': u'Liberal'}]]
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.monkeylearn.com
+DEBUG:requests.packages.urllib3.connectionpool:"POST /v2/classifiers/cl_YK3gBdDK/classify/?sandbox=1 HTTP/1.1" 200 104
+INFO:root:[[{u'probability': 0.576, u'label': u'Liberal'}], [{u'probability': 0.694, u'label': u'Liberal'}]]
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.monkeylearn.com
+DEBUG:requests.packages.urllib3.connectionpool:"POST /v2/classifiers/cl_YK3gBdDK/classify/?sandbox=1 HTTP/1.1" 200 104
+INFO:root:[[{u'probability': 0.576, u'label': u'Liberal'}], [{u'probability': 0.694, u'label': u'Liberal'}]]
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.monkeylearn.com
+DEBUG:requests.packages.urllib3.connectionpool:"POST /v2/classifiers/cl_YK3gBdDK/classify/?sandbox=1 HTTP/1.1" 200 104
+INFO:root:[[{u'probability': 0.576, u'label': u'Liberal'}], [{u'probability': 0.694, u'label': u'Liberal'}]]
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.monkeylearn.com
+DEBUG:requests.packages.urllib3.connectionpool:"POST /v2/classifiers/cl_YK3gBdDK/classify/?sandbox=1 HTTP/1.1" 200 104
+INFO:root:[[{u'probability': 0.576, u'label': u'Liberal'}], [{u'probability': 0.694, u'label': u'Liberal'}]]
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.monkeylearn.com
+DEBUG:requests.packages.urllib3.connectionpool:"POST /v2/classifiers/cl_YK3gBdDK/classify/?sandbox=1 HTTP/1.1" 200 104
+INFO:root:[[{u'probability': 0.576, u'label': u'Liberal'}], [{u'probability': 0.694, u'label': u'Liberal'}]]
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.monkeylearn.com
+DEBUG:requests.packages.urllib3.connectionpool:"POST /v2/classifiers/cl_YK3gBdDK/classify/?sandbox=1 HTTP/1.1" 200 104
+INFO:root:[[{u'probability': 0.576, u'label': u'Liberal'}], [{u'probability': 0.694, u'label': u'Liberal'}]]
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.monkeylearn.com
+DEBUG:requests.packages.urllib3.connectionpool:"POST /v2/classifiers/cl_YK3gBdDK/classify/?sandbox=1 HTTP/1.1" 200 104
+INFO:root:[[{u'probability': 0.576, u'label': u'Liberal'}], [{u'probability': 0.694, u'label': u'Liberal'}]]
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.monkeylearn.com
+DEBUG:requests.packages.urllib3.connectionpool:"POST /v2/classifiers/cl_YK3gBdDK/classify/?sandbox=1 HTTP/1.1" 200 104
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.monkeylearn.com
+DEBUG:requests.packages.urllib3.connectionpool:"POST /v2/classifiers/cl_YK3gBdDK/classify/?sandbox=1 HTTP/1.1" 200 104
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.monkeylearn.com
+DEBUG:requests.packages.urllib3.connectionpool:"POST /v2/classifiers/cl_YK3gBdDK/classify/?sandbox=1 HTTP/1.1" 200 104
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.monkeylearn.com
+DEBUG:requests.packages.urllib3.connectionpool:"POST /v2/classifiers/cl_YK3gBdDK/classify/?sandbox=1 HTTP/1.1" 200 104
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.monkeylearn.com
+DEBUG:requests.packages.urllib3.connectionpool:"POST /v2/classifiers/cl_YK3gBdDK/classify/?sandbox=1 HTTP/1.1" 200 104
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.monkeylearn.com
+DEBUG:requests.packages.urllib3.connectionpool:"POST /v2/classifiers/cl_YK3gBdDK/classify/?sandbox=1 HTTP/1.1" 200 104
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.monkeylearn.com
+DEBUG:requests.packages.urllib3.connectionpool:"POST /v2/classifiers/cl_YK3gBdDK/classify/?sandbox=1 HTTP/1.1" 200 104
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.monkeylearn.com
+DEBUG:requests.packages.urllib3.connectionpool:"POST /v2/classifiers/cl_YK3gBdDK/classify/?sandbox=1 HTTP/1.1" 200 104
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.monkeylearn.com
+DEBUG:requests.packages.urllib3.connectionpool:"POST /v2/classifiers/cl_YK3gBdDK/classify/?sandbox=1 HTTP/1.1" 200 104
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.monkeylearn.com
+DEBUG:requests.packages.urllib3.connectionpool:"POST /v2/classifiers/cl_YK3gBdDK/classify/?sandbox=1 HTTP/1.1" 200 104
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.monkeylearn.com
+DEBUG:requests.packages.urllib3.connectionpool:"POST /v2/classifiers/cl_YK3gBdDK/classify/?sandbox=1 HTTP/1.1" 200 104
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.monkeylearn.com
+DEBUG:requests.packages.urllib3.connectionpool:"POST /v2/classifiers/cl_YK3gBdDK/classify/?sandbox=1 HTTP/1.1" 200 104
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.monkeylearn.com
+DEBUG:requests.packages.urllib3.connectionpool:"POST /v2/classifiers/cl_YK3gBdDK/classify/?sandbox=1 HTTP/1.1" 200 104
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.monkeylearn.com
+DEBUG:requests.packages.urllib3.connectionpool:"POST /v2/classifiers/cl_YK3gBdDK/classify/?sandbox=1 HTTP/1.1" 200 104
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.monkeylearn.com
+DEBUG:requests.packages.urllib3.connectionpool:"POST /v2/classifiers/cl_YK3gBdDK/classify/?sandbox=1 HTTP/1.1" 200 104
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.monkeylearn.com
+DEBUG:requests.packages.urllib3.connectionpool:"POST /v2/classifiers/cl_YK3gBdDK/classify/?sandbox=1 HTTP/1.1" 200 104
+DEBUG:dataset.persistence.database:Loading table: articles on <Database(sqlite:///database.db)>
+DEBUG:dataset.persistence.table:Creating column: id (<class 'sqlalchemy.sql.sqltypes.UnicodeText'>) on 'articles'
+INFO:alembic.runtime.migration:Context impl SQLiteImpl.
+INFO:alembic.runtime.migration:Will assume non-transactional DDL.
+DEBUG:dataset.persistence.database:Loading table: rssFeeds on <Database(sqlite:///database.db)>
+DEBUG:dataset.persistence.database:Loading table: articles on <Database(sqlite:///database.db)>
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.nytimes.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /2016/01/15/nyregion/ted-cruz-and-donald-trumps-familiar-feud-over-new-york.html?partner=rss&emc=rss HTTP/1.1" 303 None
+INFO:requests.packages.urllib3.connectionpool:Resetting dropped connection: www.nytimes.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /glogin?URI=http%3A%2F%2Fwww.nytimes.com%2F2016%2F01%2F15%2Fnyregion%2Fted-cruz-and-donald-trumps-familiar-feud-over-new-york.html%3Fpartner%3Drss%26emc%3Drss%26_r%3D0 HTTP/1.1" 302 0
+DEBUG:requests.packages.urllib3.connectionpool:"GET /2016/01/15/nyregion/ted-cruz-and-donald-trumps-familiar-feud-over-new-york.html?partner=rss&emc=rss&_r=0 HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.nytimes.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /politics/first-draft/2016/01/15/donald-trump-keeps-up-criticism-of-ted-cruz-after-the-debate/?partner=rss&emc=rss HTTP/1.1" 303 None
+INFO:requests.packages.urllib3.connectionpool:Resetting dropped connection: www.nytimes.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /glogin?URI=http%3A%2F%2Fwww.nytimes.com%2Fpolitics%2Ffirst-draft%2F2016%2F01%2F15%2Fdonald-trump-keeps-up-criticism-of-ted-cruz-after-the-debate%2F%3Fpartner%3Drss%26emc%3Drss%26_r%3D0 HTTP/1.1" 302 0
+DEBUG:requests.packages.urllib3.connectionpool:"GET /politics/first-draft/2016/01/15/donald-trump-keeps-up-criticism-of-ted-cruz-after-the-debate/?partner=rss&emc=rss&_r=0 HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.nytimes.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /2016/01/15/us/politics/in-climate-move-obama-to-halt-new-coal-mining-leases-on-public-lands.html?partner=rss&emc=rss HTTP/1.1" 303 None
+INFO:requests.packages.urllib3.connectionpool:Resetting dropped connection: www.nytimes.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /glogin?URI=http%3A%2F%2Fwww.nytimes.com%2F2016%2F01%2F15%2Fus%2Fpolitics%2Fin-climate-move-obama-to-halt-new-coal-mining-leases-on-public-lands.html%3Fpartner%3Drss%26emc%3Drss%26_r%3D0 HTTP/1.1" 302 0
+DEBUG:requests.packages.urllib3.connectionpool:"GET /2016/01/15/us/politics/in-climate-move-obama-to-halt-new-coal-mining-leases-on-public-lands.html?partner=rss&emc=rss&_r=0 HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.nytimes.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /politics/first-draft/2016/01/15/jeb-bush-team-stresses-to-donors-that-substance-over-style-matters/?partner=rss&emc=rss HTTP/1.1" 303 None
+INFO:requests.packages.urllib3.connectionpool:Resetting dropped connection: www.nytimes.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /glogin?URI=http%3A%2F%2Fwww.nytimes.com%2Fpolitics%2Ffirst-draft%2F2016%2F01%2F15%2Fjeb-bush-team-stresses-to-donors-that-substance-over-style-matters%2F%3Fpartner%3Drss%26emc%3Drss%26_r%3D0 HTTP/1.1" 302 0
+DEBUG:requests.packages.urllib3.connectionpool:"GET /politics/first-draft/2016/01/15/jeb-bush-team-stresses-to-donors-that-substance-over-style-matters/?partner=rss&emc=rss&_r=0 HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.nytimes.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /politics/first-draft/2016/01/14/paul-kirk-ex-d-n-c-chairman-and-ted-kennedy-confidante-endorses-bernie-sanders/?partner=rss&emc=rss HTTP/1.1" 303 None
+INFO:requests.packages.urllib3.connectionpool:Resetting dropped connection: www.nytimes.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /glogin?URI=http%3A%2F%2Fwww.nytimes.com%2Fpolitics%2Ffirst-draft%2F2016%2F01%2F14%2Fpaul-kirk-ex-d-n-c-chairman-and-ted-kennedy-confidante-endorses-bernie-sanders%2F%3Fpartner%3Drss%26emc%3Drss%26_r%3D0 HTTP/1.1" 302 0
+DEBUG:requests.packages.urllib3.connectionpool:"GET /politics/first-draft/2016/01/14/paul-kirk-ex-d-n-c-chairman-and-ted-kennedy-confidante-endorses-bernie-sanders/?partner=rss&emc=rss&_r=0 HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.nytimes.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /politics/first-draft/2016/01/15/narrowing-fight-offers-a-clearer-glimpse-of-the-front-of-the-pack/?partner=rss&emc=rss HTTP/1.1" 303 None
+INFO:requests.packages.urllib3.connectionpool:Resetting dropped connection: www.nytimes.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /glogin?URI=http%3A%2F%2Fwww.nytimes.com%2Fpolitics%2Ffirst-draft%2F2016%2F01%2F15%2Fnarrowing-fight-offers-a-clearer-glimpse-of-the-front-of-the-pack%2F%3Fpartner%3Drss%26emc%3Drss%26_r%3D0 HTTP/1.1" 302 0
+DEBUG:requests.packages.urllib3.connectionpool:"GET /politics/first-draft/2016/01/15/narrowing-fight-offers-a-clearer-glimpse-of-the-front-of-the-pack/?partner=rss&emc=rss&_r=0 HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.nytimes.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /politics/first-draft/2016/01/15/lindsey-graham-to-endorse-jeb-bush-for-president/?partner=rss&emc=rss HTTP/1.1" 303 None
+INFO:requests.packages.urllib3.connectionpool:Resetting dropped connection: www.nytimes.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /glogin?URI=http%3A%2F%2Fwww.nytimes.com%2Fpolitics%2Ffirst-draft%2F2016%2F01%2F15%2Flindsey-graham-to-endorse-jeb-bush-for-president%2F%3Fpartner%3Drss%26emc%3Drss%26_r%3D0 HTTP/1.1" 302 0
+DEBUG:requests.packages.urllib3.connectionpool:"GET /politics/first-draft/2016/01/15/lindsey-graham-to-endorse-jeb-bush-for-president/?partner=rss&emc=rss&_r=0 HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.nytimes.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /politics/first-draft/2016/01/15/tom-steyer-joins-forces-with-group-pushing-hispanic-candidates/?partner=rss&emc=rss HTTP/1.1" 303 None
+INFO:requests.packages.urllib3.connectionpool:Resetting dropped connection: www.nytimes.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /glogin?URI=http%3A%2F%2Fwww.nytimes.com%2Fpolitics%2Ffirst-draft%2F2016%2F01%2F15%2Ftom-steyer-joins-forces-with-group-pushing-hispanic-candidates%2F%3Fpartner%3Drss%26emc%3Drss%26_r%3D0 HTTP/1.1" 302 0
+DEBUG:requests.packages.urllib3.connectionpool:"GET /politics/first-draft/2016/01/15/tom-steyer-joins-forces-with-group-pushing-hispanic-candidates/?partner=rss&emc=rss&_r=0 HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.nytimes.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /politics/first-draft/2016/01/15/congressional-republican-retreat-covers-trump-khakis-and-other-ground/?partner=rss&emc=rss HTTP/1.1" 303 None
+INFO:requests.packages.urllib3.connectionpool:Resetting dropped connection: www.nytimes.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /glogin?URI=http%3A%2F%2Fwww.nytimes.com%2Fpolitics%2Ffirst-draft%2F2016%2F01%2F15%2Fcongressional-republican-retreat-covers-trump-khakis-and-other-ground%2F%3Fpartner%3Drss%26emc%3Drss%26_r%3D0 HTTP/1.1" 302 0
+DEBUG:requests.packages.urllib3.connectionpool:"GET /politics/first-draft/2016/01/15/congressional-republican-retreat-covers-trump-khakis-and-other-ground/?partner=rss&emc=rss&_r=0 HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.nytimes.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /2016/01/15/us/politics/ted-cruz-gop-debate.html?partner=rss&emc=rss HTTP/1.1" 303 None
+INFO:requests.packages.urllib3.connectionpool:Resetting dropped connection: www.nytimes.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /glogin?URI=http%3A%2F%2Fwww.nytimes.com%2F2016%2F01%2F15%2Fus%2Fpolitics%2Fted-cruz-gop-debate.html%3Fpartner%3Drss%26emc%3Drss%26_r%3D0 HTTP/1.1" 302 0
+DEBUG:requests.packages.urllib3.connectionpool:"GET /2016/01/15/us/politics/ted-cruz-gop-debate.html?partner=rss&emc=rss&_r=0 HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.nytimes.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /2016/01/16/us/politics/who-won-the-republican-debate-cruz-and-trump-impress-the-critics.html?partner=rss&emc=rss HTTP/1.1" 303 None
+INFO:requests.packages.urllib3.connectionpool:Resetting dropped connection: www.nytimes.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /glogin?URI=http%3A%2F%2Fwww.nytimes.com%2F2016%2F01%2F16%2Fus%2Fpolitics%2Fwho-won-the-republican-debate-cruz-and-trump-impress-the-critics.html%3Fpartner%3Drss%26emc%3Drss%26_r%3D0 HTTP/1.1" 302 0
+DEBUG:requests.packages.urllib3.connectionpool:"GET /2016/01/16/us/politics/who-won-the-republican-debate-cruz-and-trump-impress-the-critics.html?partner=rss&emc=rss&_r=0 HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.nytimes.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /2016/01/15/us/politics/transcript-of-republican-presidential-debate.html?partner=rss&emc=rss HTTP/1.1" 303 None
+INFO:requests.packages.urllib3.connectionpool:Resetting dropped connection: www.nytimes.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /glogin?URI=http%3A%2F%2Fwww.nytimes.com%2F2016%2F01%2F15%2Fus%2Fpolitics%2Ftranscript-of-republican-presidential-debate.html%3Fpartner%3Drss%26emc%3Drss%26_r%3D0 HTTP/1.1" 302 0
+DEBUG:requests.packages.urllib3.connectionpool:"GET /2016/01/15/us/politics/transcript-of-republican-presidential-debate.html?partner=rss&emc=rss&_r=0 HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.nytimes.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /2016/01/15/us/politics/republican-debate-taunts-quips-rivals-battle.html?partner=rss&emc=rss HTTP/1.1" 303 None
+INFO:requests.packages.urllib3.connectionpool:Resetting dropped connection: www.nytimes.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /glogin?URI=http%3A%2F%2Fwww.nytimes.com%2F2016%2F01%2F15%2Fus%2Fpolitics%2Frepublican-debate-taunts-quips-rivals-battle.html%3Fpartner%3Drss%26emc%3Drss%26_r%3D0 HTTP/1.1" 302 0
+DEBUG:requests.packages.urllib3.connectionpool:"GET /2016/01/15/us/politics/republican-debate-taunts-quips-rivals-battle.html?partner=rss&emc=rss&_r=0 HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.nytimes.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /2016/01/15/us/politics/what-you-have-missed-so-far-in-the-debate.html?partner=rss&emc=rss HTTP/1.1" 303 None
+INFO:requests.packages.urllib3.connectionpool:Resetting dropped connection: www.nytimes.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /glogin?URI=http%3A%2F%2Fwww.nytimes.com%2F2016%2F01%2F15%2Fus%2Fpolitics%2Fwhat-you-have-missed-so-far-in-the-debate.html%3Fpartner%3Drss%26emc%3Drss%26_r%3D0 HTTP/1.1" 302 0
+DEBUG:requests.packages.urllib3.connectionpool:"GET /2016/01/15/us/politics/what-you-have-missed-so-far-in-the-debate.html?partner=rss&emc=rss&_r=0 HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.nytimes.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /2016/01/15/world/middleeast/investigation-of-seal-conduct-in-afghanistan-is-reopened.html?partner=rss&emc=rss HTTP/1.1" 303 None
+INFO:requests.packages.urllib3.connectionpool:Resetting dropped connection: www.nytimes.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /glogin?URI=http%3A%2F%2Fwww.nytimes.com%2F2016%2F01%2F15%2Fworld%2Fmiddleeast%2Finvestigation-of-seal-conduct-in-afghanistan-is-reopened.html%3Fpartner%3Drss%26emc%3Drss%26_r%3D0 HTTP/1.1" 302 0
+DEBUG:requests.packages.urllib3.connectionpool:"GET /2016/01/15/world/middleeast/investigation-of-seal-conduct-in-afghanistan-is-reopened.html?partner=rss&emc=rss&_r=0 HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.nytimes.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /2016/01/15/us/new-louisiana-governor-john-bel-edwards-is-off-to-a-volatile-start.html?partner=rss&emc=rss HTTP/1.1" 303 None
+INFO:requests.packages.urllib3.connectionpool:Resetting dropped connection: www.nytimes.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /glogin?URI=http%3A%2F%2Fwww.nytimes.com%2F2016%2F01%2F15%2Fus%2Fnew-louisiana-governor-john-bel-edwards-is-off-to-a-volatile-start.html%3Fpartner%3Drss%26emc%3Drss%26_r%3D0 HTTP/1.1" 302 0
+DEBUG:requests.packages.urllib3.connectionpool:"GET /2016/01/15/us/new-louisiana-governor-john-bel-edwards-is-off-to-a-volatile-start.html?partner=rss&emc=rss&_r=0 HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.nytimes.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /2016/01/15/us/politics/transcript-preliminary-republican-presidential-debate.html?partner=rss&emc=rss HTTP/1.1" 303 None
+INFO:requests.packages.urllib3.connectionpool:Resetting dropped connection: www.nytimes.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /glogin?URI=http%3A%2F%2Fwww.nytimes.com%2F2016%2F01%2F15%2Fus%2Fpolitics%2Ftranscript-preliminary-republican-presidential-debate.html%3Fpartner%3Drss%26emc%3Drss%26_r%3D0 HTTP/1.1" 302 0
+DEBUG:requests.packages.urllib3.connectionpool:"GET /2016/01/15/us/politics/transcript-preliminary-republican-presidential-debate.html?partner=rss&emc=rss&_r=0 HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.nytimes.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /2016/01/15/world/middleeast/us-navy-iran.html?partner=rss&emc=rss HTTP/1.1" 303 None
+INFO:requests.packages.urllib3.connectionpool:Resetting dropped connection: www.nytimes.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /glogin?URI=http%3A%2F%2Fwww.nytimes.com%2F2016%2F01%2F15%2Fworld%2Fmiddleeast%2Fus-navy-iran.html%3Fpartner%3Drss%26emc%3Drss%26_r%3D0 HTTP/1.1" 302 0
+DEBUG:requests.packages.urllib3.connectionpool:"GET /2016/01/15/world/middleeast/us-navy-iran.html?partner=rss&emc=rss&_r=0 HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.nytimes.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /2016/01/15/us/politics/in-conservative-louisiana-obama-finds-little-but-love.html?partner=rss&emc=rss HTTP/1.1" 303 None
+INFO:requests.packages.urllib3.connectionpool:Resetting dropped connection: www.nytimes.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /glogin?URI=http%3A%2F%2Fwww.nytimes.com%2F2016%2F01%2F15%2Fus%2Fpolitics%2Fin-conservative-louisiana-obama-finds-little-but-love.html%3Fpartner%3Drss%26emc%3Drss%26_r%3D0 HTTP/1.1" 302 0
+DEBUG:requests.packages.urllib3.connectionpool:"GET /2016/01/15/us/politics/in-conservative-louisiana-obama-finds-little-but-love.html?partner=rss&emc=rss&_r=0 HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.nytimes.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /politics/first-draft/2016/01/14/hillary-clintons-campaign-outraged-by-bernie-sanders-ad-on-wall-street/?partner=rss&emc=rss HTTP/1.1" 303 None
+INFO:requests.packages.urllib3.connectionpool:Resetting dropped connection: www.nytimes.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /glogin?URI=http%3A%2F%2Fwww.nytimes.com%2Fpolitics%2Ffirst-draft%2F2016%2F01%2F14%2Fhillary-clintons-campaign-outraged-by-bernie-sanders-ad-on-wall-street%2F%3Fpartner%3Drss%26emc%3Drss%26_r%3D0 HTTP/1.1" 302 0
+DEBUG:requests.packages.urllib3.connectionpool:"GET /politics/first-draft/2016/01/14/hillary-clintons-campaign-outraged-by-bernie-sanders-ad-on-wall-street/?partner=rss&emc=rss&_r=0 HTTP/1.1" 200 None
+DEBUG:dataset.persistence.database:Loading table: rssFeeds on <Database(sqlite:///database.db)>
+DEBUG:dataset.persistence.database:Loading table: articles on <Database(sqlite:///database.db)>
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.vox.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /2016/1/15/10775050/single-payer-debate HTTP/1.1" 200 28083
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.vox.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /2016/1/15/10775276/republican-debate-police-shootings HTTP/1.1" 200 26184
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.vox.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /2016/1/15/10774322/oscars-2016-nominees-star-wars-snub HTTP/1.1" 200 29717
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.vox.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /2016/1/12/10755754/crude-oil-prices-falling HTTP/1.1" 200 28634
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.vox.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /2016/1/15/10775028/republican-debate-2016-china HTTP/1.1" 200 26223
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.vox.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /2016/1/15/10774928/13-hours-benghazi-michael-bay HTTP/1.1" 200 32856
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.vox.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /2016/1/8/10734268/netflix-making-a-murderer-avery HTTP/1.1" 200 35026
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.vox.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /2016/1/15/10774894/chipotle-closing-food-safety HTTP/1.1" 200 25211
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.vox.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /2016/1/12/10755690/netflix-making-a-murderer-avery-guilty HTTP/1.1" 200 34422
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.vox.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /2016/1/15/10772354/congress-foreign-aid HTTP/1.1" 200 30307
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.vox.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /2016/1/15/10770524/who-supports-bernie-sanders HTTP/1.1" 200 25392
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.vox.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /2016/1/15/10772848/alan-rickman-death-voice HTTP/1.1" 200 26292
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.vox.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /2016/1/15/10767904/islamophobia-immigrant-america HTTP/1.1" 200 28891
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.vox.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /2016/1/15/10772998/rubio-renewable-energy-moderation HTTP/1.1" 200 29461
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.vox.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /2016/1/15/10771626/is-it-bad-to-skip-breakfast HTTP/1.1" 200 28595
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.vox.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /2016/1/15/10772184/iran-boats-sailors-irgc HTTP/1.1" 200 27588
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.vox.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /2016/1/15/10773592/teachers-singapore-shanghai-professional-development HTTP/1.1" 200 29356
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.vox.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /2016/1/15/10774204/winners-losers-republican-debate-charleston-fox-business HTTP/1.1" 200 38472
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.vox.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /2016/1/15/10774102/donald-trump-debate-winner HTTP/1.1" 200 24334
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.vox.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /2016/1/15/10774122/ted-cruz-won HTTP/1.1" 200 27692
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.vox.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /2016/1/14/10773908/gop-debate-fox-business-refugees HTTP/1.1" 200 24731
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.vox.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /2016/1/14/10773900/cruz-vat-tax HTTP/1.1" 200 25863
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.vox.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /2016/1/14/10773834/kasich-saudi-debate HTTP/1.1" 200 24051
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.vox.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /2016/1/14/10773784/untitled HTTP/1.1" 200 25785
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.vox.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /2016/1/14/10773708/republican-debate-trump-guns HTTP/1.1" 200 26363
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.vox.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /2016/1/14/10773746/chris-christie-common-core HTTP/1.1" 200 22887
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.vox.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /2016/1/14/10773724/cruz-citizen-debate HTTP/1.1" 200 25715
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.vox.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /2016/1/14/10773716/gop-debate-2016-fox-business-emp HTTP/1.1" 200 26468
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.vox.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /2016/1/14/10773610/republican-debate-christie-sotomayor HTTP/1.1" 200 22398
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.vox.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /2016/1/14/10767292/republican-debate-2015-watch-online-streaming-time-tv-schedule HTTP/1.1" 200 25106
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.monkeylearn.com
+DEBUG:requests.packages.urllib3.connectionpool:"POST /v2/classifiers/cl_YK3gBdDK/classify/?sandbox=1 HTTP/1.1" 200 108
+DEBUG:dataset.persistence.database:Loading table: articles on <Database(sqlite:///database.db)>
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.monkeylearn.com
+DEBUG:requests.packages.urllib3.connectionpool:"POST /v2/classifiers/cl_YK3gBdDK/classify/?sandbox=1 HTTP/1.1" 200 108
+DEBUG:dataset.persistence.database:Loading table: articles on <Database(sqlite:///database.db)>
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.monkeylearn.com
+DEBUG:requests.packages.urllib3.connectionpool:"POST /v2/classifiers/cl_YK3gBdDK/classify/?sandbox=1 HTTP/1.1" 200 2297
+DEBUG:dataset.persistence.database:Loading table: articles on <Database(sqlite:///database.db)>
+DEBUG:dataset.persistence.database:Loading table: rssFeeds on <Database(sqlite:///database.db)>
+DEBUG:dataset.persistence.database:Loading table: rssFeeds on <Database(sqlite:///database.db)>
+DEBUG:dataset.persistence.database:Loading table: rssFeeds on <Database(sqlite:///database.db)>
+DEBUG:dataset.persistence.database:Loading table: rssFeeds on <Database(sqlite:///database.db)>
+DEBUG:dataset.persistence.database:Loading table: rssFeeds on <Database(sqlite:///database.db)>
+DEBUG:dataset.persistence.database:Loading table: rssFeeds on <Database(sqlite:///database.db)>
+DEBUG:dataset.persistence.database:Loading table: rssFeeds on <Database(sqlite:///database.db)>
+DEBUG:dataset.persistence.database:Loading table: articles on <Database(sqlite:///database.db)>
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.vox.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /2016/1/15/10773200/weeds-obama-single-payer HTTP/1.1" 200 25083
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.vox.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /2016/1/15/10774322/oscars-2016-nominees-star-wars-snub HTTP/1.1" 200 29719
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.vox.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /2016/1/15/10772848/alan-rickman-death-voice HTTP/1.1" 200 25974
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.vox.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /2016/1/15/10772998/rubio-renewable-energy-moderation HTTP/1.1" 200 29282
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.vox.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /2016/1/15/10773592/teachers-singapore-shanghai-professional-development HTTP/1.1" 200 29246
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.vox.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /2016/1/14/10773784/untitled HTTP/1.1" 200 25549
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.vox.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /2016/1/14/10773746/chris-christie-common-core HTTP/1.1" 200 22964
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.vox.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /2016/1/14/10773716/gop-debate-2016-fox-business-emp HTTP/1.1" 200 26505
+DEBUG:dataset.persistence.database:Loading table: rssFeeds on <Database(sqlite:///database.db)>
+DEBUG:dataset.persistence.database:Loading table: articles on <Database(sqlite:///database.db)>
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.vox.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /2016/1/15/10774322/oscars-2016-nominees-star-wars-snub HTTP/1.1" 200 29719
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.vox.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /2016/1/15/10772848/alan-rickman-death-voice HTTP/1.1" 200 25974
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.vox.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /2016/1/15/10772998/rubio-renewable-energy-moderation HTTP/1.1" 200 29282
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.vox.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /2016/1/15/10773592/teachers-singapore-shanghai-professional-development HTTP/1.1" 200 29246
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.vox.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /2016/1/14/10773784/untitled HTTP/1.1" 200 25549
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.vox.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /2016/1/14/10773746/chris-christie-common-core HTTP/1.1" 200 22964
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.vox.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /2016/1/14/10773716/gop-debate-2016-fox-business-emp HTTP/1.1" 200 26505
+DEBUG:dataset.persistence.database:Loading table: rssFeeds on <Database(sqlite:///database.db)>
+DEBUG:dataset.persistence.database:Loading table: rssFeeds on <Database(sqlite:///database.db)>
+DEBUG:dataset.persistence.database:Loading table: articles on <Database(sqlite:///database.db)>
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.nytimes.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /2016/01/15/nyregion/ted-cruz-and-donald-trumps-familiar-feud-over-new-york.html?partner=rss&emc=rss HTTP/1.1" 303 None
+INFO:requests.packages.urllib3.connectionpool:Resetting dropped connection: www.nytimes.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /glogin?URI=http%3A%2F%2Fwww.nytimes.com%2F2016%2F01%2F15%2Fnyregion%2Fted-cruz-and-donald-trumps-familiar-feud-over-new-york.html%3Fpartner%3Drss%26emc%3Drss%26_r%3D0 HTTP/1.1" 302 0
+DEBUG:requests.packages.urllib3.connectionpool:"GET /2016/01/15/nyregion/ted-cruz-and-donald-trumps-familiar-feud-over-new-york.html?partner=rss&emc=rss&_r=0 HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.nytimes.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /politics/first-draft/2016/01/15/donald-trump-keeps-up-criticism-of-ted-cruz-after-the-debate/?partner=rss&emc=rss HTTP/1.1" 303 None
+INFO:requests.packages.urllib3.connectionpool:Resetting dropped connection: www.nytimes.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /glogin?URI=http%3A%2F%2Fwww.nytimes.com%2Fpolitics%2Ffirst-draft%2F2016%2F01%2F15%2Fdonald-trump-keeps-up-criticism-of-ted-cruz-after-the-debate%2F%3Fpartner%3Drss%26emc%3Drss%26_r%3D0 HTTP/1.1" 302 0
+DEBUG:requests.packages.urllib3.connectionpool:"GET /politics/first-draft/2016/01/15/donald-trump-keeps-up-criticism-of-ted-cruz-after-the-debate/?partner=rss&emc=rss&_r=0 HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.nytimes.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /politics/first-draft/2016/01/15/jeb-bush-team-stresses-to-donors-that-substance-over-style-matters/?partner=rss&emc=rss HTTP/1.1" 303 None
+INFO:requests.packages.urllib3.connectionpool:Resetting dropped connection: www.nytimes.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /glogin?URI=http%3A%2F%2Fwww.nytimes.com%2Fpolitics%2Ffirst-draft%2F2016%2F01%2F15%2Fjeb-bush-team-stresses-to-donors-that-substance-over-style-matters%2F%3Fpartner%3Drss%26emc%3Drss%26_r%3D0 HTTP/1.1" 302 0
+DEBUG:requests.packages.urllib3.connectionpool:"GET /politics/first-draft/2016/01/15/jeb-bush-team-stresses-to-donors-that-substance-over-style-matters/?partner=rss&emc=rss&_r=0 HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.nytimes.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /politics/first-draft/2016/01/14/paul-kirk-ex-d-n-c-chairman-and-ted-kennedy-confidante-endorses-bernie-sanders/?partner=rss&emc=rss HTTP/1.1" 303 None
+INFO:requests.packages.urllib3.connectionpool:Resetting dropped connection: www.nytimes.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /glogin?URI=http%3A%2F%2Fwww.nytimes.com%2Fpolitics%2Ffirst-draft%2F2016%2F01%2F14%2Fpaul-kirk-ex-d-n-c-chairman-and-ted-kennedy-confidante-endorses-bernie-sanders%2F%3Fpartner%3Drss%26emc%3Drss%26_r%3D0 HTTP/1.1" 302 0
+DEBUG:requests.packages.urllib3.connectionpool:"GET /politics/first-draft/2016/01/14/paul-kirk-ex-d-n-c-chairman-and-ted-kennedy-confidante-endorses-bernie-sanders/?partner=rss&emc=rss&_r=0 HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.nytimes.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /politics/first-draft/2016/01/15/narrowing-fight-offers-a-clearer-glimpse-of-the-front-of-the-pack/?partner=rss&emc=rss HTTP/1.1" 303 None
+INFO:requests.packages.urllib3.connectionpool:Resetting dropped connection: www.nytimes.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /glogin?URI=http%3A%2F%2Fwww.nytimes.com%2Fpolitics%2Ffirst-draft%2F2016%2F01%2F15%2Fnarrowing-fight-offers-a-clearer-glimpse-of-the-front-of-the-pack%2F%3Fpartner%3Drss%26emc%3Drss%26_r%3D0 HTTP/1.1" 302 0
+DEBUG:requests.packages.urllib3.connectionpool:"GET /politics/first-draft/2016/01/15/narrowing-fight-offers-a-clearer-glimpse-of-the-front-of-the-pack/?partner=rss&emc=rss&_r=0 HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.nytimes.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /politics/first-draft/2016/01/15/lindsey-graham-to-endorse-jeb-bush-for-president/?partner=rss&emc=rss HTTP/1.1" 303 None
+INFO:requests.packages.urllib3.connectionpool:Resetting dropped connection: www.nytimes.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /glogin?URI=http%3A%2F%2Fwww.nytimes.com%2Fpolitics%2Ffirst-draft%2F2016%2F01%2F15%2Flindsey-graham-to-endorse-jeb-bush-for-president%2F%3Fpartner%3Drss%26emc%3Drss%26_r%3D0 HTTP/1.1" 302 0
+DEBUG:requests.packages.urllib3.connectionpool:"GET /politics/first-draft/2016/01/15/lindsey-graham-to-endorse-jeb-bush-for-president/?partner=rss&emc=rss&_r=0 HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.nytimes.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /politics/first-draft/2016/01/15/tom-steyer-joins-forces-with-group-pushing-hispanic-candidates/?partner=rss&emc=rss HTTP/1.1" 303 None
+INFO:requests.packages.urllib3.connectionpool:Resetting dropped connection: www.nytimes.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /glogin?URI=http%3A%2F%2Fwww.nytimes.com%2Fpolitics%2Ffirst-draft%2F2016%2F01%2F15%2Ftom-steyer-joins-forces-with-group-pushing-hispanic-candidates%2F%3Fpartner%3Drss%26emc%3Drss%26_r%3D0 HTTP/1.1" 302 0
+DEBUG:requests.packages.urllib3.connectionpool:"GET /politics/first-draft/2016/01/15/tom-steyer-joins-forces-with-group-pushing-hispanic-candidates/?partner=rss&emc=rss&_r=0 HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.nytimes.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /politics/first-draft/2016/01/15/congressional-republican-retreat-covers-trump-khakis-and-other-ground/?partner=rss&emc=rss HTTP/1.1" 303 None
+INFO:requests.packages.urllib3.connectionpool:Resetting dropped connection: www.nytimes.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /glogin?URI=http%3A%2F%2Fwww.nytimes.com%2Fpolitics%2Ffirst-draft%2F2016%2F01%2F15%2Fcongressional-republican-retreat-covers-trump-khakis-and-other-ground%2F%3Fpartner%3Drss%26emc%3Drss%26_r%3D0 HTTP/1.1" 302 0
+DEBUG:requests.packages.urllib3.connectionpool:"GET /politics/first-draft/2016/01/15/congressional-republican-retreat-covers-trump-khakis-and-other-ground/?partner=rss&emc=rss&_r=0 HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.nytimes.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /2016/01/15/us/politics/ted-cruz-gop-debate.html?partner=rss&emc=rss HTTP/1.1" 303 None
+INFO:requests.packages.urllib3.connectionpool:Resetting dropped connection: www.nytimes.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /glogin?URI=http%3A%2F%2Fwww.nytimes.com%2F2016%2F01%2F15%2Fus%2Fpolitics%2Fted-cruz-gop-debate.html%3Fpartner%3Drss%26emc%3Drss%26_r%3D0 HTTP/1.1" 302 0
+DEBUG:requests.packages.urllib3.connectionpool:"GET /2016/01/15/us/politics/ted-cruz-gop-debate.html?partner=rss&emc=rss&_r=0 HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.nytimes.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /2016/01/15/us/politics/transcript-of-republican-presidential-debate.html?partner=rss&emc=rss HTTP/1.1" 303 None
+INFO:requests.packages.urllib3.connectionpool:Resetting dropped connection: www.nytimes.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /glogin?URI=http%3A%2F%2Fwww.nytimes.com%2F2016%2F01%2F15%2Fus%2Fpolitics%2Ftranscript-of-republican-presidential-debate.html%3Fpartner%3Drss%26emc%3Drss%26_r%3D0 HTTP/1.1" 302 0
+DEBUG:requests.packages.urllib3.connectionpool:"GET /2016/01/15/us/politics/transcript-of-republican-presidential-debate.html?partner=rss&emc=rss&_r=0 HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.nytimes.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /2016/01/15/us/politics/transcript-preliminary-republican-presidential-debate.html?partner=rss&emc=rss HTTP/1.1" 303 None
+INFO:requests.packages.urllib3.connectionpool:Resetting dropped connection: www.nytimes.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /glogin?URI=http%3A%2F%2Fwww.nytimes.com%2F2016%2F01%2F15%2Fus%2Fpolitics%2Ftranscript-preliminary-republican-presidential-debate.html%3Fpartner%3Drss%26emc%3Drss%26_r%3D0 HTTP/1.1" 302 0
+DEBUG:requests.packages.urllib3.connectionpool:"GET /2016/01/15/us/politics/transcript-preliminary-republican-presidential-debate.html?partner=rss&emc=rss&_r=0 HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.nytimes.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /2016/01/15/us/politics/in-conservative-louisiana-obama-finds-little-but-love.html?partner=rss&emc=rss HTTP/1.1" 303 None
+INFO:requests.packages.urllib3.connectionpool:Resetting dropped connection: www.nytimes.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /glogin?URI=http%3A%2F%2Fwww.nytimes.com%2F2016%2F01%2F15%2Fus%2Fpolitics%2Fin-conservative-louisiana-obama-finds-little-but-love.html%3Fpartner%3Drss%26emc%3Drss%26_r%3D0 HTTP/1.1" 302 0
+DEBUG:requests.packages.urllib3.connectionpool:"GET /2016/01/15/us/politics/in-conservative-louisiana-obama-finds-little-but-love.html?partner=rss&emc=rss&_r=0 HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.nytimes.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /politics/first-draft/2016/01/14/hillary-clintons-campaign-outraged-by-bernie-sanders-ad-on-wall-street/?partner=rss&emc=rss HTTP/1.1" 303 None
+INFO:requests.packages.urllib3.connectionpool:Resetting dropped connection: www.nytimes.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /glogin?URI=http%3A%2F%2Fwww.nytimes.com%2Fpolitics%2Ffirst-draft%2F2016%2F01%2F14%2Fhillary-clintons-campaign-outraged-by-bernie-sanders-ad-on-wall-street%2F%3Fpartner%3Drss%26emc%3Drss%26_r%3D0 HTTP/1.1" 302 0
+DEBUG:requests.packages.urllib3.connectionpool:"GET /politics/first-draft/2016/01/14/hillary-clintons-campaign-outraged-by-bernie-sanders-ad-on-wall-street/?partner=rss&emc=rss&_r=0 HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.vox.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /explainers/2016/1/14/10772734/is-ted-cruz-citizen HTTP/1.1" 200 30761
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.vox.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /2016/1/15/10774322/oscars-2016-nominees-star-wars-snub HTTP/1.1" 200 29717
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.vox.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /2016/1/15/10772848/alan-rickman-death-voice HTTP/1.1" 200 26170
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.vox.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /2016/1/15/10772998/rubio-renewable-energy-moderation HTTP/1.1" 200 29282
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.vox.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /2016/1/15/10773592/teachers-singapore-shanghai-professional-development HTTP/1.1" 200 29246
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.vox.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /2016/1/14/10773784/untitled HTTP/1.1" 200 25507
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.vox.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /2016/1/14/10773746/chris-christie-common-core HTTP/1.1" 200 22927
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.vox.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /2016/1/14/10773716/gop-debate-2016-fox-business-emp HTTP/1.1" 200 26566
